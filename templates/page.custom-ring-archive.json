@@ -1,0 +1,702 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Banner_75530fa8-cfeb-4735-999c-cc7941275c00.png",
+        "image_mobile": "shopify:\/\/shop_images\/IMAGE2.png",
+        "subheading": "",
+        "title": "Custom Ring Archive",
+        "content": "<p>Become inspired by our past custom ring designs. Our Custom Ring Design Process is a way for you to co-create a completely one of a kind ring. Our expertise, your vision.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 20
+      }
+    },
+    "8b6f0785-65db-4855-a546-73ddb2eaecc1": {
+      "type": "promotion-blocks",
+      "blocks": {
+        "template--17865544139039__8b6f0785-65db-4855-a546-73ddb2eaecc1-1676036372d2b7359a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2094.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "template--17865544139039__8b6f0785-65db-4855-a546-73ddb2eaecc1-1676036372d2b7359a-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2098.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "4b592fe6-86de-4d90-b551-55693c354e49": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2388.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "0fe3cfde-d7e6-425c-94e5-ae72506d2977": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2592.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "031a5cdd-15b7-4b49-9444-73534046ae67": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2594.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "9d0a3fa9-7708-46c1-9be0-d54f08c24235": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2889.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "59c8bcac-16b4-4647-9cb9-1835535faa49": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4291.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "68d4036f-2f15-48e7-81ab-e731e0b9e013": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4296.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "cbae6745-6f6c-4e0a-8cf1-bf44c044fc6f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4330.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "2f232633-bc1c-46f4-8b2c-ff03e666992f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4335.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "b8ed26cd-0a60-485f-a551-1027985241f6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4338.jpg",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "f51dbfac-04d4-4555-ba30-ea5d96b1a1b6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4359.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        }
+      },
+      "block_order": [
+        "template--17865544139039__8b6f0785-65db-4855-a546-73ddb2eaecc1-1676036372d2b7359a-0",
+        "template--17865544139039__8b6f0785-65db-4855-a546-73ddb2eaecc1-1676036372d2b7359a-2",
+        "4b592fe6-86de-4d90-b551-55693c354e49",
+        "0fe3cfde-d7e6-425c-94e5-ae72506d2977",
+        "031a5cdd-15b7-4b49-9444-73534046ae67",
+        "9d0a3fa9-7708-46c1-9be0-d54f08c24235",
+        "59c8bcac-16b4-4647-9cb9-1835535faa49",
+        "68d4036f-2f15-48e7-81ab-e731e0b9e013",
+        "cbae6745-6f6c-4e0a-8cf1-bf44c044fc6f",
+        "2f232633-bc1c-46f4-8b2c-ff03e666992f",
+        "b8ed26cd-0a60-485f-a551-1027985241f6",
+        "f51dbfac-04d4-4555-ba30-ea5d96b1a1b6"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "section_size": "large",
+        "stack_on_mobile": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f1e73de1-6447-4b7b-95d8-b4c520d24154": {
+      "type": "promotion-blocks",
+      "blocks": {
+        "template--17865544139039__f1e73de1-6447-4b7b-95d8-b4c520d24154-1676036372d2b7359a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4597.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "template--17865544139039__f1e73de1-6447-4b7b-95d8-b4c520d24154-1676036372d2b7359a-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9702.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "4404f82a-8a2d-4868-9c39-c2f1665a561a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9885.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "dbcc8bf0-6cef-4043-8041-ad8d596aa432": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tezza-2586.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "9cd2aa0b-0ada-400b-b212-faf8ac93e9eb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tezza-4651.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "d72c69be-c9a9-4115-bc90-49bec8edd1bd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tezza-4819.jpg",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "1bd43e60-3d63-4bf1-a2a7-e1dbdc4f2fba": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tezza-6107.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "0022c04f-1cf5-479c-8ac3-58add36465ec": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tezza-7372.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        }
+      },
+      "block_order": [
+        "template--17865544139039__f1e73de1-6447-4b7b-95d8-b4c520d24154-1676036372d2b7359a-0",
+        "template--17865544139039__f1e73de1-6447-4b7b-95d8-b4c520d24154-1676036372d2b7359a-2",
+        "4404f82a-8a2d-4868-9c39-c2f1665a561a",
+        "dbcc8bf0-6cef-4043-8041-ad8d596aa432",
+        "9cd2aa0b-0ada-400b-b212-faf8ac93e9eb",
+        "d72c69be-c9a9-4115-bc90-49bec8edd1bd",
+        "1bd43e60-3d63-4bf1-a2a7-e1dbdc4f2fba",
+        "0022c04f-1cf5-479c-8ac3-58add36465ec"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "section_size": "large",
+        "stack_on_mobile": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "id": "richtext-heading",
+        "classes": "remove-vertical-spacing top bottom",
+        "subheading": "",
+        "title": "",
+        "content": "<p>There are various characteristics and factors to consider when choosing the perfect diamond for your forever ring. Our Signature Range of Cultured Clarity laboratory diamonds are exquisite and hand selected. We choose to work with only the most superb cultured diamonds, that deliver on our commitment of quality, ethicality and affordability. Our cultured diamonds are IGI and GIA certified diamonds and are D or E Colour, VS1-VVS1 Clarity and Excellent Cut. We pride ourselves on transparency and empowering you with accurate education to choose the right diamonds.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#ffffff",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6328075b-f8e9-482c-84b9-71c175b4d286": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/45.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "What Is A Cultured Diamond?",
+            "content": "<p>A cultured diamond is a laboratory grown diamond that is produced in a controlled technological process. Laboratory grown diamonds possess identical chemical and physical properties to that of mined diamonds.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "fd9d73a6-08d9-452e-a724-abf484730662": {
+      "type": "custom-collection-list",
+      "disabled": true,
+      "blocks": {
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/60.png",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "Begin Consultation",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "d4cb7730-bc70-412b-8899-37be56229719": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/59.png",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "Virtual Consultation",
+            "link_url": "https:\/\/themoissanitecompany.as.me\/schedule.php?appointmentType=38852122",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/30_d844cefe-b5d4-45c6-bd8f-f9dec0a41000.png",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "Ring Service Appointment",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "c4796b05-0101-4d21-834a-6ce0ba466dbf": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/61.png",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "Ring Collection Appointment",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1",
+        "d4cb7730-bc70-412b-8899-37be56229719",
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0",
+        "c4796b05-0101-4d21-834a-6ce0ba466dbf"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 475,
+        "image_height_mobile": 400,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "0433cc95-81f2-4e5e-a6ae-f694fbd01642": {
+      "type": "promotion-blocks",
+      "blocks": {
+        "template--16039138197677__0433cc95-81f2-4e5e-a6ae-f694fbd01642-167902448532361f74-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Custom_Toi_Et_Moi-4.jpg",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "template--16039138197677__0433cc95-81f2-4e5e-a6ae-f694fbd01642-167902448532361f74-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Custom_Toi_Et_Moi-2.jpg",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "cafacdb4-448d-4631-8a0d-544404ff6cbb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Custom_Toi_Et_Moi-3.jpg",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "8247fb67-9dd2-4021-b694-3fd680ad9e28": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Images_1080_x_1080_-09.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "f6673caa-3a78-43c3-97a8-09f8aa335643": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Images_1080_x_1080_-11.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "09b7a020-3b07-41fa-991b-5ceb24c1c6af": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Images_1080_x_1080_-10.png",
+            "highlight": false,
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        }
+      },
+      "block_order": [
+        "template--16039138197677__0433cc95-81f2-4e5e-a6ae-f694fbd01642-167902448532361f74-0",
+        "template--16039138197677__0433cc95-81f2-4e5e-a6ae-f694fbd01642-167902448532361f74-2",
+        "cafacdb4-448d-4631-8a0d-544404ff6cbb",
+        "8247fb67-9dd2-4021-b694-3fd680ad9e28",
+        "f6673caa-3a78-43c3-97a8-09f8aa335643",
+        "09b7a020-3b07-41fa-991b-5ceb24c1c6af"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "section_size": "medium",
+        "stack_on_mobile": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41",
+    "8b6f0785-65db-4855-a546-73ddb2eaecc1",
+    "f1e73de1-6447-4b7b-95d8-b4c520d24154",
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2",
+    "6328075b-f8e9-482c-84b9-71c175b4d286",
+    "fd9d73a6-08d9-452e-a724-abf484730662",
+    "0433cc95-81f2-4e5e-a6ae-f694fbd01642"
+  ]
+}

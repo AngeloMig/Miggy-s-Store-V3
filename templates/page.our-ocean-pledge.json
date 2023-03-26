@@ -1,0 +1,287 @@
+{
+  "sections": {
+    "ddb35ab0-ffd4-4a06-96d9-b9b3ddd6dbd1": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Our_Ocean_Pledge-01.png",
+        "image_mobile": "shopify:\/\/shop_images\/Our_Ocean_Pledge-02.png",
+        "subheading": "",
+        "title": "Our Ocean Pledge",
+        "content": "<p>Empowering the waves, enriching the reefs.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "small",
+        "text_position": "bottom_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "26f630f1-05e7-4069-a272-837e001ac4aa": {
+      "type": "custom-liquid",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "liquid": "",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6778c765-e010-4f7c-a32c-26ab29037599": {
+      "type": "rich-text",
+      "settings": {
+        "id": "",
+        "classes": "",
+        "subheading": "",
+        "title": "Our Pledge To Restore The Oceans Allure",
+        "content": "<p><em>We are proud to announce the launch of our newest initiative:<\/em><\/p><p>A portion of profits from every Cultured Clarity<em>™<\/em> Ring we craft will be donated to <a href=\"https:\/\/www.marineconservation.org.au\/\">The Australian Marine Conservation Society.<\/a><\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#492218",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "93fce866-fd86-4cfb-a139-9c45e8e17d6f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16045229605037__93fce866-fd86-4cfb-a139-9c45e8e17d6f-1677044118b0941195-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ocean-Hero-Images-01.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Our Why",
+            "content": "<p>As makers of fine jewellery, we recognise we have a carbon footprint. We deeply understand the importance of offsetting this, and a way in which we can do this is giving back to organisations that are taking strides towards positively impacting Australia’s  ecosystems, but also giving back to organisations that are meaningful, passionate and aligned with our mission and values.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16045229605037__93fce866-fd86-4cfb-a139-9c45e8e17d6f-1677044118b0941195-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 3,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "small"
+      }
+    },
+    "221b5dbe-9c40-48ec-9d9f-df5454a16146": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16045229605037__221b5dbe-9c40-48ec-9d9f-df5454a16146-1677044118b0941195-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ocean-Hero-Images-02.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Our Cerulean Love",
+            "content": "<p>Like us, many Australians have a deep bond with our oceans. We’re fortunate to be based in beautiful tropical Queensland, where the ocean is truly our backyard. he Australian Marine Conservation Society have protected critical ocean ecosystems with marine reserves around the nation, including Ningaloo and the Great Barrier Reef.<\/p><p><em><strong>We’re proud to be supporting their mission of a healthy ocean for a thriving planet. <\/strong><\/em><\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16045229605037__221b5dbe-9c40-48ec-9d9f-df5454a16146-1677044118b0941195-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "27d6a7fe-10c4-4011-a293-b45774728305": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16045229605037__27d6a7fe-10c4-4011-a293-b45774728305-1677044118b0941195-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ocean-Hero-Images-01_16e83712-d73d-477a-9a6f-d1b604b55ca1.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "The Australian Marine Conservation Society",
+            "content": "<p>The Australian Marine Conservation Society is Australia’s leading national charity dedicated solely to protecting our precious ocean wildlife – a community of ocean lovers across the nation working for healthy seas.<\/p><p>Over 55 years ago the Australian Marine Conservation Society was formed by a community of scientists and ocean conservationists, who came together to take action to protect our marine life.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "LEARN MORE",
+            "button_link_alt": "https:\/\/www.marineconservation.org.au\/about\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--16045229605037__27d6a7fe-10c4-4011-a293-b45774728305-1677044118b0941195-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "e038ef21-7007-4de3-aa3a-b3651cd0f908": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16045229605037__e038ef21-7007-4de3-aa3a-b3651cd0f908-1677044118b0941195-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ocean-Hero-Images-02_6095217b-4f6d-4047-b487-dd1d6bc73685.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "The Impact",
+            "content": "<p>If things don't change, there will be more plastic than fish in the ocean by 2050. Our initiative supports the incredible work that the Australian Marine Conservation Society do, so we can prevent this.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16045229605037__e038ef21-7007-4de3-aa3a-b3651cd0f908-1677044118b0941195-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "f3cd7e55-0f56-4b7b-8e3a-b96a9303ed4f": {
+      "type": "custom-collection-list",
+      "blocks": {
+        "template--16045229605037__f3cd7e55-0f56-4b7b-8e3a-b96a9303ed4f-16770451071f55f848-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/TheMoissaniteCompany-7279.jpg",
+            "subheading": "",
+            "title": "Create Your Dream Ring",
+            "content": "<p>Design your Cultured Clarity<em>™ <\/em> ring with our Signature Ring Builder.<\/p>",
+            "link_text": "BEGIN NOW",
+            "link_url": "shopify:\/\/pages\/ring-builder",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 37
+          }
+        },
+        "template--16045229605037__f3cd7e55-0f56-4b7b-8e3a-b96a9303ed4f-16770451071f55f848-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Cultured_Clarity_x_The_May_Studio-43_34e9d973-8e31-47ce-80b5-fcb980f41854.jpg",
+            "subheading": "",
+            "title": "Our Ethical Commitment",
+            "content": "<p>Learn more about all our pledges to sustainability.<\/p>",
+            "link_text": "LEARN MORE",
+            "link_url": "shopify:\/\/pages\/our-ethical-commitment",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16045229605037__f3cd7e55-0f56-4b7b-8e3a-b96a9303ed4f-16770451071f55f848-3",
+        "template--16045229605037__f3cd7e55-0f56-4b7b-8e3a-b96a9303ed4f-16770451071f55f848-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 600,
+        "image_height_mobile": 400,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "ddb35ab0-ffd4-4a06-96d9-b9b3ddd6dbd1",
+    "26f630f1-05e7-4069-a272-837e001ac4aa",
+    "6778c765-e010-4f7c-a32c-26ab29037599",
+    "93fce866-fd86-4cfb-a139-9c45e8e17d6f",
+    "main",
+    "221b5dbe-9c40-48ec-9d9f-df5454a16146",
+    "27d6a7fe-10c4-4011-a293-b45774728305",
+    "e038ef21-7007-4de3-aa3a-b3651cd0f908",
+    "f3cd7e55-0f56-4b7b-8e3a-b96a9303ed4f"
+  ]
+}

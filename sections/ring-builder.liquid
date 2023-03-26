@@ -1,0 +1,505 @@
+<script>
+  window.RingBuilderConfig = {}
+  RingBuilderConfig = {
+    setting:{{section.settings.settingCollection.products | json}},
+    settingMetafields: {
+      {%for product in section.settings.settingCollection.products %}
+        {{product.id | json}}:
+            {
+              roseGoldImage: {{product.metafields.custom.rose_gold_image.value | json}},
+              whiteGoldImage: {{product.metafields.custom.white_gold_image.value | json}},
+              yellowGoldImage: {{product.metafields.custom.yellow_gold_image.value | json}},
+              platinumImage: {{product.metafields.custom.platinum_image.value | json}},
+              shapeTag: {{product.metafields.custom.shape.value | json}},
+            },
+      {%endfor%}
+    },
+    settingHeading: "{{section.settings.settingHeading}}",
+    settingSubheading: "{{section.settings.settingSubheading}}",
+    moissaniteStone: [
+      {%for col in section.settings.moissaniteCollection%}
+        {%for product in col.products%}
+        {{product | json }},
+        {%endfor%}
+      {%endfor%}
+    ],
+    culturedStone: [
+      {%for col in section.settings.culturedCollection%}
+        {%for product in col.products%}
+        {{product | json }},
+        {%endfor%}
+      {%endfor%}
+    ],
+    moissaniteMetafields: {
+      {%for col in section.settings.moissaniteCollection%}
+        {%for product in col.products%}
+          {{product.id | json}}:
+            {
+              dimension: {{product.metafields.custom.stone_dimension.value | json}},
+              clarity: {{product.metafields.custom.stone_clarity.value | json}},
+              colour: {{product.metafields.custom.stone_colour.value | json}},
+              carat: {{product.metafields.custom.stone_carat.value | json}},
+              shape: {{product.metafields.custom.stone_shape.value | json}},
+              video: {{product.metafields.custom.stone_video.value | json}},
+              certificate_link: {{product.metafields.custom.certificate_link.value | json}},
+              shapeTag: {{product.metafields.custom.shape.value | json}},
+            },
+            {%endfor%}
+        {%endfor%}
+      },
+    culturedMetafields: {
+      {%for col in section.settings.culturedCollection%}
+        {%for product in col.products%}
+          {{product.id | json}}:
+            {
+              dimension: {{product.metafields.custom.stone_dimension.value | json}},
+              clarity: {{product.metafields.custom.stone_clarity.value | json}},
+              colour: {{product.metafields.custom.stone_colour.value | json}},
+              carat: {{product.metafields.custom.stone_carat.value | json}},
+              shape: {{product.metafields.custom.stone_shape.value | json}},
+              video: {{product.metafields.custom.stone_video.value | json}},
+              certificate_link: {{product.metafields.custom.certificate_link.value | json}},
+              shapeTag: {{product.metafields.custom.shape.value | json}},
+            },
+            {%endfor%}
+        {%endfor%}
+      },
+    addon: {{section.settings.addonCollection.products | json}},
+    hiddenGem: {{section.settings.hiddenGemCollection.products | json}},
+    sizes: [
+      {%if section.settings.sizes != blank%}
+      {%assign sizeArrayValues = section.settings.sizes | split: ","%}
+      {%for val in sizeArrayValues%}
+        "{{val | strip}}",
+      {%endfor%}
+
+      {%endif%}
+    ],
+    shapeAssets: {
+      Oval: "{%if settings.shape_oval != blank %}{{ settings.shape_oval | img_url: 'master' }}{%endif%}",
+      Round: "{%if settings.shape_round != blank %}{{settings.shape_round | img_url: 'master'}}{%endif%}",
+      Emerald: "{%if settings.shape_emerald != blank %}{{settings.shape_emerald | img_url: 'master'}}{%endif%}",
+      Radiant: "{%if settings.shape_radiant != blank %}{{settings.shape_radiant | img_url: 'master'}}{%endif%}",
+      "Elongated Cushion": "{%if settings.shape_elongated_cushion != blank %}{{settings.shape_elongated_cushion | img_url: 'master'}}{%endif%}",
+      Pear: "{%if settings.shape_pear != blank %}{{settings.shape_pear | img_url: 'master'}}{%endif%}",
+      Marquise: "{%if settings.shape_marquise != blank %}{{settings.shape_marquise | img_url: 'master'}}{%endif%}",
+      Asscher: "{%if settings.shape_asscher != blank %}{{settings.shape_asscher | img_url: 'master'}}{%endif%}",
+      Cushion: "{%if settings.shape_cushion != blank %}{{settings.shape_cushion | img_url: 'master'}}{%endif%}",
+    },
+    facetingOptions: [
+      {%if section.settings.facetingType != blank%}
+      {%assign facetingArrayValues = section.settings.facetingType | split: ","%}
+      {%for val in facetingArrayValues%}
+      "{{val | strip}}",
+      {%endfor%}
+
+      {%endif%}
+    ],
+    stoneHeading: "{{section.settings.stoneHeading}}",
+    stoneSubheading: "{{section.settings.stoneSubheading}}",
+    bespokeHeading: "{{section.settings.bespokeHeading}}",
+    bespokeSubheading: "{{section.settings.bespokeSubheading}}",
+    engravingHeading: "{{section.settings.engravingHeading}}",
+    engravingSubheading: "{{section.settings.engravingSubheading}}",
+    engravingPlaceholder: "{{section.settings.engravingPlaceholder}}",
+    gemstoneHeading: "{{section.settings.gemstoneHeading}}",
+    gemstoneSubheading: "{{section.settings.gemstoneSubheading}}",
+  }
+</script>
+
+{%- assign size_guide = section.settings.size_guide -%}
+{%- assign size_link = section.settings.size_link -%}
+{%- assign size_selector = section.settings.sizechart_selector -%}
+
+<section id="ring-builder">
+  <div class="rb-container">
+    <div class="rb-header">
+      <h3 class="heading h2">Signature Ring Builder</h3>
+      <p>
+        Create your dream engagement ring utilising our Signature Ring Builder. Select your dream ring setting, followed
+        by your desired cultured gemstone. Personalise your ring with bespoke customisations to make it truly one of a
+        kind, just like your love story.
+      </p>
+      {% if request.design_mode %}
+        <span
+          >NOTE: Most Of Ring Builder's Functionalities Will Not Work on Theme Customizer (this only appears on Theme
+          Customizer)</span
+        >
+      {% endif %}
+    </div>
+    <div class="rb-main">
+      <div class="rb-image-container">
+        <div class="rb-image">
+          <img
+            loading="lazy"
+            src="{%if section.settings.default_image == blank%}https://cdn.shopify.com/s/files/1/0544/6408/6189/files/image_6.png?v=1674185347{%else%}{{section.settings.default_image | img_url: 'master'}}{%endif%}"
+          >
+        </div>
+      </div>
+      <div class="rb-form">
+        <div class="rb-options">
+          <div class="rb-option">
+            <button id="rb-setting-btn">SELECT SETTING</button>
+          </div>
+          <div class="rb-option">
+            <button id="rb-stone-btn">SELECT STONE</button>
+          </div>
+          <div class="rb-option">
+            <div class="custom-select" style="max-width:240px;" id="rb-metal-type">
+              <select>
+                <option value="0">SELECT METAL TYPE:</option>
+                <option value="1" data-color="#DBC08A">14k Yellow Gold</option>
+                <option value="2" data-color="#DBC08A">18k Yellow Gold</option>
+                <option value="3" data-color="#D49F88">14k Rose Gold</option>
+                <option value="4" data-color="#D49F88">18k Rose Gold</option>
+                <option value="5" data-color="#E9E6E6">14k White Gold</option>
+                <option value="6" data-color="#E9E6E6">18k White Gold</option>
+                <option value="7" data-color="#E0DEDE">Platinum</option>
+              </select>
+            </div>
+          </div>
+          <div class="rb-option">
+            <label>Select Band Width</label>
+            <div class="rb-radio-choices" id="rb-bandwidth">
+              <label class="rb-radio-container">
+                <input type="radio" name="bandwidth" checked="checked">
+                <span class="b-radio-checkmark">1.6mm</span>
+              </label>
+              <label class="rb-radio-container">
+                <input type="radio" name="bandwidth" checked="checked">
+                <span class="b-radio-checkmark">1.8mm</span>
+              </label>
+              <label class="rb-radio-container">
+                <input type="radio" name="bandwidth" checked="checked">
+                <span class="b-radio-checkmark">2.0mm</span>
+              </label>
+            </div>
+          </div>
+          <div class="rb-option rb-option-size">
+            <div class="custom-select" style="max-width:240px;" id="rb-sizes-option">
+              <select>
+                <option value="0">SELECT SIZE:</option>
+                {% assign sizeArrayValues = section.settings.sizes | split: ',' %}
+                {% for val in sizeArrayValues %}
+                  <option value="{{val | strip}}">{{ val | strip }}</option>
+                {% endfor %}
+              </select>
+            </div>
+            {% if size_guide != blank and size_selector == 'popup' %}
+              <div class="rb_size_guide">
+                <button
+                  is="toggle-button"
+                  class="product-meta__help link text--subdued hidden-tablet-and-up"
+                  aria-controls="product-{{ section.id }}-ringbuilder-size-chart-popover"
+                  aria-expanded="false"
+                >
+                  {{ 'product.general.need_help' | t }}
+                </button>
+                <button
+                  is="toggle-button"
+                  class="product-meta__help link text--subdued hidden-phone"
+                  aria-controls="product-{{ section.id }}-ringbuilder-size-chart-drawer"
+                  aria-expanded="false"
+                >
+                  {{ 'product.general.need_help' | t }}
+                </button>
+              </div>
+            {% endif %}
+            {% if size_link != blank and size_selector == 'pdf_file' %}
+              <a class="pdf-button product-form__option-link link text--subdued" href="{{size_link}}" target="_blank">
+                {{- 'product.general.size_chart' | t -}}
+              </a>
+            {% endif %}
+          </div>
+          <div class="rb-option">
+            <div class="custom-select" style="max-width: max-content;" id="rb-prong-type">
+              <select>
+                <option value="0">SELECT PRONG TYPE:</option>
+                <option value="1">Audi</option>
+                <option value="2">BMW</option>
+                <option value="3">Citroen</option>
+                <option value="4">Ford</option>
+                <option value="5">Honda</option>
+                <option value="6">Jaguar</option>
+                <option value="7">Land Rover</option>
+                <option value="8">Mercedes</option>
+                <option value="9">Mini</option>
+                <option value="10">Nissan</option>
+                <option value="11">Toyota</option>
+                <option value="12">Volvo</option>
+              </select>
+            </div>
+          </div>
+          <div class="rb-option">
+            <a id="rb-bespoke-customization">+ ADD BESPOKE CUSTOMISATION</a>
+            <span class="rb-values" id="rb-bespoke-customization-value"></span>
+          </div>
+          <div class="rb-option">
+            <a id="rb-engraving">+ ADD ENGRAVING</a>
+            <span class="rb-values" id="rb-engraving-value"></span>
+          </div>
+          <div class="rb-option">
+            <a id="rb-hidden-gem">+ ADD HIDDEN GEMSTONE</a>
+            <span class="rb-values" id="rb-hidden-gem-value"></span>
+          </div>
+        </div>
+        <div class="rb-pricing-container">
+          <span id="rb-price">$0.00</span><span class="rb-price-gst">inc. GST</span>
+        </div>
+        <div class="rb-add-btn">
+          <a class="product-form__add-button button button--primary button--full" id="rb-add-cart" disabled
+            ><span class="loader-button__text">Add to cart</span
+            ><span class="loader-button__loader" hidden="">
+              <div class="spinner">
+                <svg focusable="false" width="24" height="24" class="icon icon--spinner" viewBox="25 25 50 50">
+                  <circle cx="50" cy="50" r="20" fill="none" stroke="currentColor" stroke-width="5"></circle>
+                </svg>
+              </div></span
+          ></a>
+          <a
+            class="product-form__add-button button button--secondary button--outline"
+            target="_blank"
+            href="/pages/contact"
+            ><span class="loader-button__text">ENQUIRE NOW</span
+            ><span class="loader-button__loader" hidden="">
+              <div class="spinner">
+                <svg focusable="false" width="24" height="24" class="icon icon--spinner" viewBox="25 25 50 50">
+                  <circle cx="50" cy="50" r="20" fill="none" stroke="currentColor" stroke-width="5"></circle>
+                </svg>
+              </div></span
+          ></a>
+        </div>
+        <script>
+          window.estimateConfig = {%if section.settings.weeks != blank %}{{ section.settings.weeks }}{%else%} 6{%endif%};
+        </script>
+        <div class="rb-estimate estimate">
+          Your piece will be crafted and ready for collection or delivery on <span id="e-range"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% if size_guide != blank and size_selector == 'popup' %}
+    {%- comment -%}Drawer is for tablet and desktop{%- endcomment -%}
+    <drawer-content
+      id="product-{{ section.id }}-ringbuilder-size-chart-drawer"
+      class="drawer drawer--large hidden-phone"
+    >
+      <span class="drawer__overlay"></span>
+
+      <header class="drawer__header">
+        <p class="drawer__title heading h6">{{ size_guide.title }}</p>
+
+        <button
+          type="button"
+          class="drawer__close-button tap-area"
+          data-action="close"
+          title="{{ 'general.accessibility.close' | t | escape }}"
+        >
+          {%- render 'icon' with 'close' -%}
+        </button>
+      </header>
+
+      <div class="drawer__content drawer__content--padded-start">
+        <div class="rte">
+          {{- size_guide.content -}}
+        </div>
+      </div>
+    </drawer-content>
+
+    {%- comment -%}Popover is for mobile{%- endcomment -%}
+    <popover-content id="product-{{ section.id }}-ringbuilder-size-chart-popover" class="popover hidden-lap-and-up">
+      <span class="popover__overlay"></span>
+
+      <header class="popover__header">
+        <p class="popover__title heading h6">{{ size_guide.title }}</p>
+
+        <button
+          type="button"
+          class="popover__close-button tap-area tap-area--large"
+          data-action="close"
+          title="{{ 'general.accessibility.close' | t | escape }}"
+        >
+          {%- render 'icon' with 'close' -%}
+        </button>
+      </header>
+
+      <div class="popover__content">
+        <div class="rte">
+          {{- size_guide.content -}}
+        </div>
+      </div>
+    </popover-content>
+  {% endif %}
+</section>
+
+{% schema %}
+{
+  "name": "Ring Builder",
+  "class": "shopify-section--ring-builder",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Setting Config"
+    },
+    {
+      "type": "text",
+      "id": "settingHeading",
+      "label": "Settings Heading",
+      "default": "Select Setting"
+    },
+    {
+      "type": "text",
+      "id": "settingSubheading",
+      "label": "Settings SubHeading",
+      "default": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium"
+    },
+    {
+      "type": "header",
+      "content": "Stone Config"
+    },
+    {
+      "type": "text",
+      "id": "stoneHeading",
+      "label": "Stone Heading",
+      "default": "Select Your Stones"
+    },
+    {
+      "type": "text",
+      "id": "stoneSubheading",
+      "label": "Stone SubHeading",
+      "default": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium"
+    },
+    {
+      "type": "header",
+      "content": "Bespoke Config"
+    },
+    {
+      "type": "text",
+      "id": "bespokeHeading",
+      "label": "Bespoke Heading",
+      "default": "Add Customisations"
+    },
+    {
+      "type": "text",
+      "id": "bespokeSubheading",
+      "label": "Bespoke SubHeading",
+      "default": "Click to add or remove upgrades"
+    },
+    {
+      "type": "header",
+      "content": "Engraving Config"
+    },
+    {
+      "type": "text",
+      "id": "engravingHeading",
+      "label": "Engraving Heading",
+      "default": "Customisation"
+    },
+    {
+      "type": "text",
+      "id": "engravingSubheading",
+      "label": "Engraving SubHeading",
+      "default": "Have your ring custom engaved, with 20 characters or less. This will be laser engraved on the inside of your band."
+    },
+    {
+      "type": "text",
+      "id": "engravingPlaceholder",
+      "label": "Engraving Placeholder",
+      "default": "A name, a date, initials or a word"
+    },
+    {
+      "type": "header",
+      "content": "Hidden Gemstone Config"
+    },
+    {
+      "type": "text",
+      "id": "gemstoneHeading",
+      "label": "Gemstone Heading",
+      "default": "Add Hidden Gemstone"
+    },
+    {
+      "type": "text",
+      "id": "gemstoneSubheading",
+      "label": "Gemstone SubHeading",
+      "default": "Click to add or remove upgrades"
+    },
+    {
+      "type": "image_picker",
+      "id": "default_image",
+      "label": "Default Image"
+    },
+    {
+      "type": "header",
+      "content": "Collections Config"
+    },
+    {
+      "type": "collection",
+      "id": "settingCollection",
+      "label": "Settings Collection"
+    },
+    {
+      "type": "collection_list",
+      "id": "moissaniteCollection",
+      "label": "Moissanite Collections"
+    },
+    {
+      "type": "collection_list",
+      "id": "culturedCollection",
+      "label": "Cultured Collections"
+    },
+    {
+      "type": "collection",
+      "id": "addonCollection",
+      "label": "Add-Ons Collection"
+    },
+    {
+      "type": "collection",
+      "id": "hiddenGemCollection",
+      "label": "Hidden Gems Collection"
+    },
+    {
+      "type": "header",
+      "content": "Other Configurations"
+    },
+    {
+      "type": "text",
+      "id": "facetingType",
+      "label": "Faceting Type",
+      "info": "add ',' to split values"
+    },
+    {
+      "type": "text",
+      "id": "sizes",
+      "label": "Sizes",
+      "default": "F,F 1/2,G,G 1/2,H, H 1/2, I, J, J 1/2, K",
+      "info": "add ',' to split values"
+    },
+    {
+      "type": "select",
+      "id": "sizechart_selector",
+      "label": "Display selector",
+      "options": [
+        {
+          "value": "pdf_file",
+          "label": "Downloadable PDF"
+        },
+        {
+          "value": "popup",
+          "label": "Popup"
+        }
+      ],
+      "default": "pdf_file"
+    },
+    {
+      "type": "page",
+      "id": "size_guide",
+      "label": "Size Guide"
+    },
+    {
+      "type": "url",
+      "id": "size_link",
+      "label": "Size Guide PDF Link"
+    }
+  ]
+}
+{% endschema %}

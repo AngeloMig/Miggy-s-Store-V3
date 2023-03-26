@@ -1,0 +1,288 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Cultured_Clarity_x_The_May_Studio-7.png",
+        "image_mobile": "shopify:\/\/shop_images\/Cultured_Clarity_x_The_May_Studio-7-mobile.png",
+        "subheading": "",
+        "title": "Our Story",
+        "content": "<p>Learn how it all began.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "f000a0fa-e366-4b3c-99c8-311fa7ae6066": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__f000a0fa-e366-4b3c-99c8-311fa7ae6066-167427896505791125-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/OurStory.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "We walk the journey with you.",
+            "content": "<p>The Moissanite Company was dreamt to life by Makayla in 2020, later followed by Cultured Clarity. Both established on the principals of bespoke-ness, ethicality and affordability. <br\/><br\/>After nearly a decade of experience working at the helm of the jewellery industry in Australia, The Moissanite Company was founded based on Makayla’s own experience creating her own dream ring.<br\/><br\/>Now known as ‘The Luise Ring’, named after Makayla’s great grandmother.<br\/><br\/>Working alongside a master jeweller she had met years before, Makayla and her now husband Tom were fully engaged in the design and crafting process from start to finish. One thing led to another, and Makayla was so inspired to share what they had created.<br\/><br\/>The inevitable next step was turning her long-standing passion for jewellery, into a conscious business that afforded couples with the deeply personal experience, bespoke-ness and affordability she once was seeking.<br\/><br\/>Makayla was at the helm of the creation process of her own ring, and knew exactly how she could support other couples along this very intimate and memorable journey.<br\/><br\/>Makayla now operates The Moissanite Company and Cultured Clarity alongside her husband and co-founder, Tom as well as their small, dedicated team. Makayla and Tom are new parents to a precious one year old daughter and love balancing the passion they hold for their company as well as the incredible joys of parenthood.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__f000a0fa-e366-4b3c-99c8-311fa7ae6066-167427896505791125-0"
+      ],
+      "settings": {
+        "id": "image-with-text-1",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "flex-start",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "7bdb3f09-65f2-4a09-8980-31d79fe1915a": {
+      "type": "rich-text",
+      "settings": {
+        "id": "",
+        "classes": "",
+        "subheading": "",
+        "title": "Bringing Dream Rings To Life",
+        "content": "<p>At The Moissanite Company, we value your love story. We will walk the journey with you. We focus on utilising the highest quality cultured gemstones, paired with impeccable craftsmanship and traceability, to create special pieces that are bespoke, ethical, and afforable, designed to be loved for generations to come.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#44241a",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d6f6d682-d58d-48b6-850e-7034660025b9": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16021487026349__d6f6d682-d58d-48b6-850e-7034660025b9-16742796106b020089-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond.png",
+            "custom_icon_width": 30,
+            "title": "Our Vision",
+            "content": "<p>To create positive change within the jewellery industry, removing the stigma around cultured gemstones and affording the couples luxury of ethically creating their dream ring.<\/p>"
+          }
+        },
+        "template--16021487026349__d6f6d682-d58d-48b6-850e-7034660025b9-16742796106b020089-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond.png",
+            "custom_icon_width": 30,
+            "title": "Our Mission",
+            "content": "<p>Crafting bespoke, ethical, and affordable ceremonial jewellery for the modern couple.<\/p>"
+          }
+        },
+        "template--16021487026349__d6f6d682-d58d-48b6-850e-7034660025b9-16742796106b020089-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond.png",
+            "custom_icon_width": 30,
+            "title": "Our Why",
+            "content": "<p>We do what brings us joy - crafting dream rings, creating and connecting. We have a deep passion and love for what we do, and it is an honour and a privilege to walk the journey with couples.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__d6f6d682-d58d-48b6-850e-7034660025b9-16742796106b020089-0",
+        "template--16021487026349__d6f6d682-d58d-48b6-850e-7034660025b9-16742796106b020089-1",
+        "template--16021487026349__d6f6d682-d58d-48b6-850e-7034660025b9-16742796106b020089-2"
+      ],
+      "settings": {
+        "class": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2": {
+      "type": "rich-text",
+      "settings": {
+        "id": "richtext-heading",
+        "classes": "remove-vertical-spacing bottom",
+        "subheading": "",
+        "title": "Our Values",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sustainability.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Sustainability",
+            "content": "<p>Sustainable choices are at the heart of our decision making. From the materials utilised in our Brisbane Showroom fitout, to our gemstones of choice and precious metals, our head office policies and beyond.<\/p><p>We acknowledge as a company that we are always striving to do better and progressing forward on our sustainability journey.<\/p>",
+            "button_text": "",
+            "button_link": "https:\/\/themoissanitecompany.com\/pages\/our-ethical-commitment",
+            "button_text_alt": "Our Sustainability Practices",
+            "button_link_alt": "https:\/\/themoissanitecompany.com\/pages\/our-ethical-commitment"
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "#ffffff",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "9bbac8e6-a982-4eeb-9767-67be82c4bfac": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__9bbac8e6-a982-4eeb-9767-67be82c4bfac-167428110969622551-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/family.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Family",
+            "content": "<p>Our business is built on family. Cultivating relationships and creating an environment which is supportive, inclusive and inviting. The Moissanite Company was founded by wife and husband, Makayla and Tom and their committed team has become an extension of their family. The Moissanite Company ‘family’ share the same values and passion for bespoke, ethical and affordable jewellery.<\/p>",
+            "button_text": "",
+            "button_link": "shopify:\/\/pages\/ring-builder",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__9bbac8e6-a982-4eeb-9767-67be82c4bfac-167428110969622551-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "68e59628-90f2-454e-9acf-bb561a7511de": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__68e59628-90f2-454e-9acf-bb561a7511de-167428110969622551-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/creativity.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Creativity",
+            "content": "<p>Creativity is at the core of what we do. A thousand year old craft, brought to life with modern technologies and sustainable practices so we can truly create one of a kind pieces. We recognise the significance of being part of your creative journey, during the design process of your dream ring and it is something we relish in.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "Discover engagement",
+            "button_link_alt": "shopify:\/\/pages\/ring-builder"
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__68e59628-90f2-454e-9acf-bb561a7511de-167428110969622551-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41",
+    "f000a0fa-e366-4b3c-99c8-311fa7ae6066",
+    "7bdb3f09-65f2-4a09-8980-31d79fe1915a",
+    "d6f6d682-d58d-48b6-850e-7034660025b9",
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2",
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd",
+    "9bbac8e6-a982-4eeb-9767-67be82c4bfac",
+    "68e59628-90f2-454e-9acf-bb561a7511de"
+  ]
+}

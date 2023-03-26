@@ -1,0 +1,123 @@
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "show_collection_image": true,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "section_height": "auto",
+        "text_width": "medium",
+        "image": "shopify:\/\/shop_images\/Banner-FineJewellry.png",
+        "image_mobile": "shopify:\/\/shop_images\/Moissanite_Banners_mobile_5a4ddb18-9d15-48dc-9464-eb7ef5ec22f2.png",
+        "content": "<p>Little tokens of love.<\/p>",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 10,
+        "quick_links": ""
+      }
+    },
+    "dcdb6870-d532-401d-93b1-f4e37911c69b": {
+      "type": "custom-collection-list",
+      "blocks": {
+        "template--16012644417709__dcdb6870-d532-401d-93b1-f4e37911c69b-1674178706306f9a76-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "earrings",
+            "image": "shopify:\/\/shop_images\/Earrings_13f754b5-f30a-4f6e-a0e4-b8c2a3fd9ffb.png",
+            "subheading": "",
+            "title": "Earrings",
+            "content": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/earrings",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16012644417709__dcdb6870-d532-401d-93b1-f4e37911c69b-1674178706306f9a76-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "fine-rings",
+            "image": "shopify:\/\/shop_images\/FineRings.png",
+            "subheading": "",
+            "title": "Fine Rings",
+            "content": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/fine-rings",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "07007e57-9f1b-47db-be7a-a529248dc350": {
+          "type": "collection",
+          "settings": {
+            "collection": "necklaces",
+            "image": "shopify:\/\/shop_images\/Pendants_21d25240-6e8b-405a-a97a-b5aa30572b57.png",
+            "subheading": "",
+            "title": "Pendants",
+            "content": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/necklaces",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "4df10595-48ed-429e-8d59-b60a312e530d": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16012644417709__dcdb6870-d532-401d-93b1-f4e37911c69b-1674178706306f9a76-0",
+        "template--16012644417709__dcdb6870-d532-401d-93b1-f4e37911c69b-1674178706306f9a76-1",
+        "07007e57-9f1b-47db-be7a-a529248dc350",
+        "4df10595-48ed-429e-8d59-b60a312e530d"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 300,
+        "image_height_mobile": 225,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_sort_by": true,
+        "products_per_page": 24,
+        "mobile_products_per_row": "1",
+        "desktop_products_per_row": 3,
+        "show_filters": true,
+        "show_filter_group_name": false,
+        "show_color_swatch": true,
+        "open_first_filter_group": false,
+        "filter_position": "drawer",
+        "promotion_position": "top",
+        "promotion_height": "small"
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "dcdb6870-d532-401d-93b1-f4e37911c69b",
+    "main"
+  ]
+}

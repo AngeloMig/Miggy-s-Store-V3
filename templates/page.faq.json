@@ -1,0 +1,127 @@
+{
+  "sections": {
+    "0afc6b49-df59-40b1-be51-a24b65afa1f5": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/CC_Banner.png",
+        "image_mobile": "shopify:\/\/shop_images\/mobile_banner_9aafd456-3e12-4425-b860-92bd4be5be18.png",
+        "subheading": "",
+        "title": "Frequently Asked Questions",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "05ffa923-2f55-4d76-93f5-34194116bb98": {
+          "type": "question",
+          "settings": {
+            "title": "How do I start designing my custom ring?",
+            "answer": "<p>To initiate the custom ring process, please fill out a <a href=\"\/pages\/custom-order-submission\" title=\"\/pages\/custom-order-submission\"><span style=\"text-decoration:underline\">custom ring design form<\/span><\/a> or <a href=\"\/pages\/showroom-consultation-appointments\" title=\"\/pages\/showroom-consultation-appointments\"><span style=\"text-decoration:underline\">book a consultation. <\/span><\/a><\/p>"
+          }
+        },
+        "68c398c1-f70f-4ddc-bc42-940d18320d1b": {
+          "type": "question",
+          "settings": {
+            "title": "How do I find my ring size?",
+            "answer": "<p>Please book an appointment at our Brisbane Showroom <a href=\"\/pages\/showroom-consultation-appointments\" title=\"\/pages\/showroom-consultation-appointments\"><span style=\"text-decoration:underline\">here<\/span><\/a>, or order one of our complimentary ring sizers <a href=\"\/pages\/ring-sizing\" title=\"Ring Sizing\"><span style=\"text-decoration:underline\">here<\/span>.<\/a><\/p>"
+          }
+        },
+        "91a08b86-4197-43e9-9dff-03355abbb621": {
+          "type": "question",
+          "settings": {
+            "title": "How do I organise my complimentary resize?",
+            "answer": "<p>When you first receive your ring, ensure it is the correct size. If it is the incorrect size, please <a href=\"\/pages\/contact\" title=\"\/pages\/contact\">contact us <\/a>immediately to arrange your complimentary ring resizing. Avoid wearing the ring, as this can increase your chances of causing unintentional damage. We will arrange for the ring to be resized once, completely free of charge with no postage or handling fees. This service is valid within 6 months of purchase. <a href=\"\/pages\/ring-sizing\" title=\"Ring Sizing\"><span style=\"text-decoration:underline\">Get in touch <\/span><\/a>with us to begin the resize process.<\/p>"
+          }
+        },
+        "38a70e30-3e39-4a65-ab04-46eb4de41d38": {
+          "type": "question",
+          "settings": {
+            "title": "How do I care for my ring?",
+            "answer": "<p>Please see information on ring care <a href=\"\/blogs\/ring-care-2\/how-to-take-care-of-your-engagement-ring\" title=\"\/blogs\/ring-care-2\/how-to-take-care-of-your-engagement-ring\">here<\/a>.<\/p>"
+          }
+        },
+        "83226eba-c16a-4946-8e07-546b3da98d5d": {
+          "type": "question",
+          "settings": {
+            "title": "How do I care for my fine jewellery?",
+            "answer": "<p>Please see information on fine jewellery care here.<\/p>"
+          }
+        },
+        "dcc876c8-797f-432a-aa59-c5de73f5d154": {
+          "type": "question",
+          "settings": {
+            "title": "What is The Moissanite Company's warranty & authenticity?",
+            "answer": "<p>All of our pieces include a Lifetime Warranty and Authenticity for your peace of mind. Find this information <a href=\"\/pages\/warranty\" title=\"Warranty\">here.<\/a><\/p>"
+          }
+        },
+        "c9c4baf5-a8d8-43b4-83f9-8bb0825c9bf0": {
+          "type": "question",
+          "settings": {
+            "title": "When will my order be shipped?",
+            "answer": "<p>Please allow 2-5 business days for your ring to be dispatched after it has been completed. Upon completion, you will be contacted by our team and sent a completion video and tracking number. We offer complimentary express shipping, worldwide. Read more about our shipping <a href=\"\/pages\/warranty\" title=\"Warranty\">here<\/a>.<\/p>"
+          }
+        },
+        "7d712a72-d71c-4416-b531-4627808bed23": {
+          "type": "question",
+          "settings": {
+            "title": "What are your shipping methods?",
+            "answer": "<p>We offer worldwide complimentary express shipping. Local and International orders (outside of Australia) are sent via <em>Australia Post Express.<\/em> Delivery timeframes are subject to your location, please allow up to 3 business days for your item to arrive (domestic). Please allow up to 10 business days for your item to arrive (international). Read more about our shipping <a href=\"\/pages\/warranty\" title=\"Warranty\">here<\/a>.<\/p>"
+          }
+        },
+        "c492ac09-2c25-4ff0-a78b-60f221af9ced": {
+          "type": "question",
+          "settings": {
+            "title": "What are import duties and tax, and how are they relevant?",
+            "answer": "<p>Import duties and taxes may be relevant to international shipments outside of Australia. Once your order arrives at your destination, you will be liable for all custom fees and taxes that may be incurred to release the parcel. The Moissanite Company will not process a refund if you refuse to pay the relevant duties\/fees for your order. If your order is returned as a result of unpaid duties\/fees, payment for the redelivery of the item is at the customer's discretion. Read more about import duties and taxes <a href=\"\/pages\/warranty\" title=\"Warranty\">here<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "05ffa923-2f55-4d76-93f5-34194116bb98",
+        "68c398c1-f70f-4ddc-bc42-940d18320d1b",
+        "91a08b86-4197-43e9-9dff-03355abbb621",
+        "38a70e30-3e39-4a65-ab04-46eb4de41d38",
+        "83226eba-c16a-4946-8e07-546b3da98d5d",
+        "dcc876c8-797f-432a-aa59-c5de73f5d154",
+        "c9c4baf5-a8d8-43b4-83f9-8bb0825c9bf0",
+        "7d712a72-d71c-4416-b531-4627808bed23",
+        "c492ac09-2c25-4ff0-a78b-60f221af9ced"
+      ],
+      "settings": {
+        "show_navigation": true,
+        "title": "",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "0afc6b49-df59-40b1-be51-a24b65afa1f5",
+    "main",
+    "faq"
+  ]
+}

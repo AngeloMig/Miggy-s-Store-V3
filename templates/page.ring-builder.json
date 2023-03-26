@@ -1,0 +1,290 @@
+{
+  "sections": {
+    "main": {
+      "type": "ring-builder",
+      "settings": {
+        "settingHeading": "Select Your Ring Setting",
+        "settingSubheading": "Discover our Signature Range and select your dream ring setting. View by gemstone shape and precious metal type.",
+        "stoneHeading": "Select Your Gemstone",
+        "stoneSubheading": "Discover and choose our Eternal Brilliance Moissanite gemstones or our hand selected Cultured Clarity™ range of IGI and GIA laboratory grown diamonds.",
+        "bespokeHeading": "Add Bespoke Customisations",
+        "bespokeSubheading": "Click to add or remove upgrades",
+        "engravingHeading": "Engraving",
+        "engravingSubheading": "Have your ring engraved, with 20 characters or less. This will be laser engraved on the inside of your band.",
+        "engravingPlaceholder": "A name, a date, initials or a word",
+        "gemstoneHeading": "Add a Hidden Gemstone",
+        "gemstoneSubheading": "Click to add or remove upgrades",
+        "default_image": "shopify:\/\/shop_images\/CAD_11_58ea327c-efcf-4699-b6ad-c659a380c5c0_3000x_jpg.webp",
+        "settingCollection": "our-signature-range",
+        "moissaniteCollection": [
+          "asscher-moissanite",
+          "cushion-moissanite",
+          "elongated-cushion-moissanite",
+          "emerald-moissanite",
+          "marquise-moissanite",
+          "oval-moissanite",
+          "round-moissanite",
+          "pear-moissanite",
+          "radiant-moissanite"
+        ],
+        "culturedCollection": [
+          "asscher-diamond",
+          "cushion-diamond",
+          "elongated-cushion-diamond",
+          "emerald-diamond",
+          "marquise-diamond",
+          "oval-diamond",
+          "radiant-diamond",
+          "round-diamond",
+          "pear-diamond"
+        ],
+        "addonCollection": "bespoke-customisation",
+        "hiddenGemCollection": "hidden-gemstones-collection",
+        "facetingType": "Brilliant, Crushed Ice, Old Mine Cut, Rose Cut,Old European Cut",
+        "sizes": "F,F 1\/2,G,G 1\/2,H, H 1\/2, I, I 1\/2, J, J 1\/2, K, K 1\/2,L,L 1\/2,M,M 1\/2,N,N 1\/2,O,O 1\/2,P,P 1\/2,Q,Q 1\/2,R,R 1\/2,S,S 1\/2,T,T 1\/2,U,U 1\/2,V,V 1\/2,W,W 1\/2,X,X 1\/2,Y,Z,Z 1\/2",
+        "sizechart_selector": "pdf_file",
+        "size_guide": "",
+        "size_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0714\/6455\/0687\/files\/International_Ring_Size_Converstion_Chart.pdf?v=1676419046"
+      }
+    },
+    "6b857724-af0f-401e-abf2-d20820ae75c0": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--17795823829279__6b857724-af0f-401e-abf2-d20820ae75c0-1676006058cf617a48-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/Vector_5.png",
+            "custom_icon_width": 30,
+            "title": "",
+            "content": "<p>Complimentary Engraving<\/p>"
+          }
+        },
+        "template--17795823829279__6b857724-af0f-401e-abf2-d20820ae75c0-1676006058cf617a48-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/Vector_5.png",
+            "custom_icon_width": 30,
+            "title": "",
+            "content": "<p>Express Worldwide Shipping<\/p>"
+          }
+        },
+        "template--17795823829279__6b857724-af0f-401e-abf2-d20820ae75c0-1676006058cf617a48-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/Vector_5.png",
+            "custom_icon_width": 30,
+            "title": "",
+            "content": "<p>Gemstone Certification<\/p>"
+          }
+        },
+        "template--17795823829279__6b857724-af0f-401e-abf2-d20820ae75c0-1676006058cf617a48-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon": "shopify:\/\/shop_images\/Vector_5.png",
+            "custom_icon_width": 30,
+            "title": "",
+            "content": "<p>Lifetime Warranty<\/p>"
+          }
+        },
+        "afb61253-4350-4f2e-92b1-2488b2beffbb": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon": "shopify:\/\/shop_images\/Vector_5.png",
+            "custom_icon_width": 30,
+            "title": "",
+            "content": "<p>Sustainable Materials<\/p>"
+          }
+        },
+        "12ed4ead-6a57-4f35-b96e-e07f3451c5e7": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon": "shopify:\/\/shop_images\/Vector_5.png",
+            "custom_icon_width": 30,
+            "title": "",
+            "content": "<p>Bespoke Made Just For You<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17795823829279__6b857724-af0f-401e-abf2-d20820ae75c0-1676006058cf617a48-0",
+        "template--17795823829279__6b857724-af0f-401e-abf2-d20820ae75c0-1676006058cf617a48-1",
+        "template--17795823829279__6b857724-af0f-401e-abf2-d20820ae75c0-1676006058cf617a48-2",
+        "template--17795823829279__6b857724-af0f-401e-abf2-d20820ae75c0-1676006058cf617a48-3",
+        "afb61253-4350-4f2e-92b1-2488b2beffbb",
+        "12ed4ead-6a57-4f35-b96e-e07f3451c5e7"
+      ],
+      "settings": {
+        "class": "w-small",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "031e6db8-c046-4c66-a429-edffdd40fafe": {
+          "type": "image-with-text",
+          "disabled": true,
+          "settings": {
+            "heading": "Details",
+            "image": "shopify:\/\/shop_images\/Mask_group.png",
+            "content": "<ul><li>Made to order and completely customisable<\/li><li>Metal: 14K Solid Gold, 18K Solid Gold or Platinum<\/li><li>Stones: Moissanite Emerald cut<\/li><li>Colour: Colourless (D-Colour)<\/li><li>Clarity: VVS<\/li><li>Band Width: 1.6mm, 1.8mm or 2mm<\/li><li>Mohs Scale: Moissanite 9.2<\/li><li>Refractive Index: 2.65-2.69 (Moissanite)<br\/><\/li><\/ul>"
+          }
+        },
+        "0d25f0d4-49ae-4447-81ab-afc4ae4601c4": {
+          "type": "image-with-text",
+          "settings": {
+            "heading": "What You Recieve",
+            "image": "shopify:\/\/shop_images\/Sustainable-Packaging.png",
+            "content": "<p>Receiving your bespoke piece from The Moissanite Company is an incomparable experience. Within your box from us you will receive:<\/p><ul><li>Gift Box<\/li><li>Ring Box and Velvet Pouch<\/li><li>Polishing Cloth<\/li><li>Care Guide<\/li><li>Gemstone Certification<\/li><li>A Gift From Us<\/li><\/ul>"
+          }
+        },
+        "2c09c26c-9b00-4446-99b2-ae5359523358": {
+          "type": "image-with-text",
+          "settings": {
+            "heading": "Payment Options",
+            "image": "shopify:\/\/shop_images\/Payment_Options.png",
+            "content": "<p>We’re proud to offer flexible payment options to our customers, via ZipPay and Humm. Learn more about these interest free payment options to see if they are suitable for you.<\/p>",
+            "first_logo": "shopify:\/\/shop_images\/humm.png",
+            "second_logo": "shopify:\/\/shop_images\/Zip_Logo.png"
+          }
+        },
+        "45cd9e60-532b-4c86-8eb5-c086d860bbdc": {
+          "type": "image-with-text",
+          "settings": {
+            "heading": "Shipping & Collections",
+            "image": "shopify:\/\/shop_images\/Packaging.png",
+            "content": "<p>We offer worldwide complimentary express shipping, inclusive of parcel insurance. If you are Brisbane based and would prefer to collect your ring, you can select the <em><strong>Pick Up<\/strong><\/em> option while completing your order.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "031e6db8-c046-4c66-a429-edffdd40fafe",
+        "0d25f0d4-49ae-4447-81ab-afc4ae4601c4",
+        "2c09c26c-9b00-4446-99b2-ae5359523358",
+        "45cd9e60-532b-4c86-8eb5-c086d860bbdc"
+      ],
+      "settings": {
+      }
+    },
+    "0e929f3f-63ac-4232-ac0d-81d5835a0afd": {
+      "type": "text-with-icons",
+      "disabled": true,
+      "blocks": {
+        "template--17795823829279__0e929f3f-63ac-4232-ac0d-81d5835a0afd-1676006058cf617a48-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/Vector_6.png",
+            "custom_icon_width": 50,
+            "title": "Unrivalled Craftsmanship",
+            "content": "<p>Australia's highest quality Moissanite and Cultured Diamonds, paired with meticulous craftsmanship at the forefront of each ring, crafted in Australia.<\/p>"
+          }
+        },
+        "template--17795823829279__0e929f3f-63ac-4232-ac0d-81d5835a0afd-1676006058cf617a48-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/Vector_9.png",
+            "custom_icon_width": 50,
+            "title": "Giving Back",
+            "content": "<p>Ethicality and sustainability are at the forefront of everything we do.<\/p>"
+          }
+        },
+        "template--17795823829279__0e929f3f-63ac-4232-ac0d-81d5835a0afd-1676006058cf617a48-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/Vector_8.png",
+            "custom_icon_width": 50,
+            "title": "The Journey",
+            "content": "<p>We’re here for you and your journey. We offer complimentary resizing and a lifetime warranty.<\/p>"
+          }
+        },
+        "template--17795823829279__0e929f3f-63ac-4232-ac0d-81d5835a0afd-1676006058cf617a48-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon": "shopify:\/\/shop_images\/Vector_9.png",
+            "custom_icon_width": 50,
+            "title": "Affordability & Honesty",
+            "content": "<p>We place priority on keeping our pieces attainable for every couple.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17795823829279__0e929f3f-63ac-4232-ac0d-81d5835a0afd-1676006058cf617a48-0",
+        "template--17795823829279__0e929f3f-63ac-4232-ac0d-81d5835a0afd-1676006058cf617a48-1",
+        "template--17795823829279__0e929f3f-63ac-4232-ac0d-81d5835a0afd-1676006058cf617a48-2",
+        "template--17795823829279__0e929f3f-63ac-4232-ac0d-81d5835a0afd-1676006058cf617a48-3"
+      ],
+      "settings": {
+        "class": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "5b1de63f-3f3f-4a19-8257-36f5d9ca75c1": {
+      "type": "custom-collection-list",
+      "blocks": {
+        "template--17795823829279__5b1de63f-3f3f-4a19-8257-36f5d9ca75c1-1676006296428dedf0-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Moissanite_932f0dbb-b4a3-4167-9420-2616a70ae924.png",
+            "subheading": "",
+            "title": "Learn: Moissanite",
+            "content": "",
+            "link_text": "LEARN MORE",
+            "link_url": "shopify:\/\/pages\/our-moissanite",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--17795823829279__5b1de63f-3f3f-4a19-8257-36f5d9ca75c1-1676006296428dedf0-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/CulturedDiamonds_69596d04-678c-4030-bf08-89dab83c725c.png",
+            "subheading": "",
+            "title": "Learn: Cultured Diamonds",
+            "content": "",
+            "link_text": "LEARN MORE",
+            "link_url": "shopify:\/\/pages\/cultured-clarity",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--17795823829279__5b1de63f-3f3f-4a19-8257-36f5d9ca75c1-1676006296428dedf0-0",
+        "template--17795823829279__5b1de63f-3f3f-4a19-8257-36f5d9ca75c1-1676006296428dedf0-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 600,
+        "image_height_mobile": 400,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6b857724-af0f-401e-abf2-d20820ae75c0",
+    "product-content",
+    "0e929f3f-63ac-4232-ac0d-81d5835a0afd",
+    "5b1de63f-3f3f-4a19-8257-36f5d9ca75c1"
+  ]
+}

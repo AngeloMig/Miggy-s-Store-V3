@@ -1,0 +1,163 @@
+// main: custom.scss
+
+body[data-template^="collection"] {
+  .shopify-section--collection-banner {
+    .image-overlay__image-wrapper {
+    }
+    .image-overlay__content-wrapper {
+      .image-overlay__content.content-box--text-left {
+        margin-left: 0;
+      }
+      .image-overlay__content {
+        h1.heading {
+          font-size: var(--heading-large-font-size);
+          font-weight: 400;
+          margin-bottom: 15px;
+          letter-spacing: var(--letter-spacing-2);
+        }
+        .image-overlay__text-container {
+          margin-top: 15px;
+          font-size: 22px;
+          letter-spacing: var(--letter-spacing-2);
+        }
+      }
+    }
+    .page-header {
+      h1.heading {
+        font-size: var(--heading-large-font-size);
+      }
+    }
+    @media (max-width: 740px) {
+      .image-overlay {
+        aspect-ratio: var(--image-aspect-ratio-mobile);
+      }
+      .image-overlay__content-wrapper {
+        --section-items-alignment: flex-start;
+        .image-overlay__content {
+          h1.heading {
+            font-size: 44px;
+          }
+          .image-overlay__text-container {
+            font-size: 18px;
+          }
+        }
+      }
+      .page-header {
+        h1.heading {
+          font-size: 44px;
+        }
+      }
+    }
+  }
+  .shopify-section--collection-list.custom {
+    section.section {
+      margin-top: 10px;
+    }
+    .list-collections__item-list {
+      .list-collections__item {
+        .list-collections__item-info {
+          // padding: 45px;
+          p.heading {
+            font-size: 24px;
+          }
+          .content {
+            font-size: 16px;
+          }
+        }
+      }
+    }
+    @media (max-width: 999px) {
+      .list-collections__item-list {
+        .list-collections__item {
+          .list-collections__item-info {
+            padding: 30px;
+          }
+        }
+      }
+    }
+  }
+  .shopify-section--main-collection {
+    .product-facet__main {
+      .product-facet__meta-bar {
+        .product-facet__meta-bar-item {
+          background: var(--color-baby-powder);
+          line-height: 45px;
+          padding: 0 20px;
+          font-size: 12px;
+          text-transform: uppercase;
+          font-weight: 600;
+          letter-spacing: var(--letter-spacing-1);
+        }
+        .popover {
+          text-transform: none;
+          font-size: 14px;
+          line-height: 1.8;
+          letter-spacing: normal;
+          padding: 0;
+        }
+        .product-facet__meta-bar-item--filter {
+          margin-right: 0;
+          padding-right: 5px;
+          color: var(--color-caput-mortuum);
+        }
+        span.product-facet__meta-bar-item--count {
+          padding-left: 5px;
+        }
+        .product-facet__meta-bar-item--sort {
+          .product-facet__sort-by-title {
+            color: var(--color-caput-mortuum);
+          }
+          button.popover-button {
+            text-transform: uppercase;
+            letter-spacing: var(--letter-spacing-1);
+          }
+        }
+      }
+      .product-facet__product-list {
+        margin-top: calc(var(--vertical-breather) / 2);
+        .product-list__inner {
+          --product-list-block-spacing: 50px;
+          --product-list-column-gap: 30px;
+        }
+      }
+    }
+    @media (max-width: 999px) {
+      .product-facet__main {
+        .product-facet__meta-bar {
+          // display: none;
+          justify-content: flex-start;
+          .product-facet__meta-bar-item--count {
+            display: none;
+          }
+        }
+      }
+    }
+  }
+  @media (max-width: 999px) {
+    #main {
+      display: flex;
+      flex-direction: column;
+      > .shopify-section {
+        order: 1;
+      }
+      .mobile-toolbar {
+        order: 2;
+        grid-gap: 20px;
+        padding: 10px;
+        background: #FFF;
+        .mobile-toolbar__item {
+          border: none;
+          background: var(--color-baby-powder);
+          color: var(--color-caput-mortuum);
+          font-size: 12px;
+          font-weight: 600;
+          letter-spacing: var(--letter-spacing-1);
+          text-transform: uppercase;
+        }
+      }
+      .shopify-section--main-collection {
+        order: 3;
+      }
+    }
+  }
+}

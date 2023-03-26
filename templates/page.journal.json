@@ -1,0 +1,55 @@
+{
+  "sections": {
+    "ddb35ab0-ffd4-4a06-96d9-b9b3ddd6dbd1": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/CC_Banner.png",
+        "image_mobile": "shopify:\/\/shop_images\/mobile_banner_9aafd456-3e12-4425-b860-92bd4be5be18.png",
+        "subheading": "",
+        "title": "{{ page.title }}",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "4edb6898-2876-4021-a34f-dea80ade16ec": {
+      "type": "blog-posts",
+      "settings": {
+        "blog": "journal-1",
+        "subheading": "",
+        "title": "",
+        "articles_count": 4,
+        "stack_mobile": false,
+        "show_category": true,
+        "show_excerpt": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    }
+  },
+  "order": [
+    "ddb35ab0-ffd4-4a06-96d9-b9b3ddd6dbd1",
+    "4edb6898-2876-4021-a34f-dea80ade16ec",
+    "main"
+  ]
+}

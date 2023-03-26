@@ -1,0 +1,354 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/banner_f506a782-df2d-48e1-b719-5d591b7d298f.png",
+        "image_mobile": "shopify:\/\/shop_images\/Banner_mobile.png",
+        "subheading": "",
+        "title": "Our Process",
+        "content": "<p>Discover more about our bespoke and custom processes.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "7bdb3f09-65f2-4a09-8980-31d79fe1915a": {
+      "type": "rich-text",
+      "settings": {
+        "id": "richtext-heading",
+        "classes": "remove-vertical-spacing top bottom",
+        "subheading": "",
+        "title": "Bespoke",
+        "content": "<p><em>\/<\/em>bi'speʊk\/<br\/><em>Adjective<\/em><\/p><p><em>Made for a particular individual<\/em><\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#ffffff",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2": {
+      "type": "rich-text",
+      "settings": {
+        "id": "richtext-heading",
+        "classes": "remove-vertical-spacing top bottom",
+        "subheading": "",
+        "title": "",
+        "content": "<p>Our carefully curated Signature Range is bespoke, made to order within 4-6 weeks. We work with you to co-create your dream.<br\/>Your vision, our expertise. Let's walk this special journey together.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f8f7f2",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6328075b-f8e9-482c-84b9-71c175b4d286": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/01.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "01 Initial Appointment",
+            "content": "<p>It all starts with a relaxed appointment in our Brisbane Showroom. You’ll step inside our oasis and see first hand where the magic happens. If you’re located interstate or overseas, we welcome you into our space virtually via a video consultation.<\/p><p>If our Founder Makayla isn’t behind the jewellers bench, you’ll meet with her or one of our expert Jewellery Consultants. An appointment with us is simply an experience to discover what you love, what you feel suits your unique personal style, and to spark ideas on creating a dream ring that is truly special, representative of your love story. Our appointments are always no obligation.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/02.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "02 Design Consultation",
+            "content": "<p>Either during or after our initial consultation, we can begin discussions around the design specifics of your dream ring. We offer two distinctive design pathways to cater to your needs.<\/p><p><em><strong>Our Signature Range:<\/strong><\/em> Has been carefully curated by our Founder Makayla. Constructed on the principles of timelessness, elegance and attention to detail.<\/p><p>With our design, you lead the way choosing each intricate detail of your ring. This includes metal type, gemstone size, band width, melee stones and more.<\/p><p>Our Signature Range is bespoke, crafted to order within 4-6 weeks.<\/p><p><em><strong>Our Custom Ring Design:<\/strong><\/em> Is a way for you to co-create a completely one of a kind ring. We work with you through the intricate design process to bring your vision to life.<\/p><p>Our Custom Ring Design incurs no additional fees, with a turnaround of 6-8 weeks.<\/p><p>During our consultation design phase, we aim to establish your ring preferences and will provide you with an immediate quote in-store, and within 24 hours online.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "#ffffff",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "68e59628-90f2-454e-9acf-bb561a7511de": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__68e59628-90f2-454e-9acf-bb561a7511de-167428110969622551-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/03.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "03 Digital CAD Design",
+            "content": "<p>Whether you have chosen to design a ring from our Signature Range, or co-created a Custom Ring with us you will receive a computer aided design - CAD. This is a technical drawing of your ring design, outlining your chosen specifications.<\/p><p>Your CAD can be amended as many times as you feel necessary, and we will reflect the changes you have made through updated CAD variations.<\/p><p>Once approved, we begin the crafting process.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__68e59628-90f2-454e-9acf-bb561a7511de-167428110969622551-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "493237a9-c396-43a3-9e65-0f010c4ef659": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024674468013__493237a9-c396-43a3-9e65-0f010c4ef659-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/04.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "04 The Crafting Process",
+            "content": "<p>A thousand year old craft, meets modern sustainable practices and design. Proudly crafted in Australia, each ring is created with intention, unrivalled craftsmanship and most importantly passion.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "Discover The Crafting Process",
+            "button_link_alt": "shopify:\/\/pages\/our-craft"
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__493237a9-c396-43a3-9e65-0f010c4ef659-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "f173056a-b2ae-4d01-88e3-3e7bb0198664": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024674468013__f173056a-b2ae-4d01-88e3-3e7bb0198664-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/05.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "05 Ring Completion",
+            "content": "<p>Upon your ring's completion you will receive communication from our team. This is inclusive of a video of your ring, so you can see just how beautiful your finished piece is. We will also include any relevant shipping information or support you in arranging a time to collect your ring.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__f173056a-b2ae-4d01-88e3-3e7bb0198664-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "c0188088-fd94-4477-be72-3d674c246f9e": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "id": "",
+        "classes": "",
+        "subheading": "",
+        "title": "",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f8f7f2",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "fd9d73a6-08d9-452e-a724-abf484730662": {
+      "type": "custom-collection-list",
+      "blocks": {
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/DiscoverOurCraftingProcess.png",
+            "subheading": "",
+            "title": "Discover Our Crafting Process",
+            "content": "",
+            "link_text": "Discover",
+            "link_url": "shopify:\/\/pages\/our-craft",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/BuildYourDreamRing.png",
+            "subheading": "",
+            "title": "Build Your Dream Ring",
+            "content": "",
+            "link_text": "Begin",
+            "link_url": "shopify:\/\/pages\/ring-builder",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1",
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 600,
+        "image_height_mobile": 400,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41",
+    "7bdb3f09-65f2-4a09-8980-31d79fe1915a",
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2",
+    "6328075b-f8e9-482c-84b9-71c175b4d286",
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd",
+    "68e59628-90f2-454e-9acf-bb561a7511de",
+    "493237a9-c396-43a3-9e65-0f010c4ef659",
+    "f173056a-b2ae-4d01-88e3-3e7bb0198664",
+    "c0188088-fd94-4477-be72-3d674c246f9e",
+    "fd9d73a6-08d9-452e-a724-abf484730662"
+  ]
+}

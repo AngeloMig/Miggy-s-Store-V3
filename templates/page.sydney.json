@@ -1,0 +1,373 @@
+{
+  "sections": {
+    "ddb35ab0-ffd4-4a06-96d9-b9b3ddd6dbd1": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Hero.png",
+        "image_mobile": "shopify:\/\/shop_images\/750x1300_30fa43b8-1ae4-4b46-97cb-cecc7600fd87.png",
+        "subheading": "",
+        "title": "Shop Our Moissanite In Sydney",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "bottom_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 10
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "44b6fc6f-66b0-4426-a2ca-0e8bdae1df53": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--17895924597023__44b6fc6f-66b0-4426-a2ca-0e8bdae1df53-16762901298c9f9b79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hero.png",
+            "mobile_image": "shopify:\/\/shop_images\/750x1300_30fa43b8-1ae4-4b46-97cb-cecc7600fd87.png",
+            "text_position": "bottom_left",
+            "subheading": "",
+            "title": "Shop Our Moissanite In Sydney",
+            "content": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--17895924597023__44b6fc6f-66b0-4426-a2ca-0e8bdae1df53-16762901298c9f9b79-0"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "fade",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "e7200ef0-04c4-40ca-bf61-461e055c6391": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17895924597023__e7200ef0-04c4-40ca-bf61-461e055c6391-167629100493fc7535-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/01_7bc4b9b3-82de-466e-b5ba-be130922964f.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Searching for bridal moissanite rings in Sydney?",
+            "content": "<p>The Moissanite Company is proudly Australian based - crafting bespoke, ethical and affordable moissanite rings for lovebirds in Sydney, greater New South Wales, the rest of Australia and around the world.<\/p><p>We truly value your love story. Here at The Moissanite Company you and your partner are known by name, not number. We understand purchasing your dream ring is an important decision, so we walk the journey with you. Our dedicated team of jewellers, designers and bridal jewellery experts are here to support and guide you through the entire process – from stone size, ring customisations and metal type. We help you consider all the little details.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "Discover Our Range",
+            "button_link_alt": "shopify:\/\/collections\/engagement-rings"
+          }
+        }
+      },
+      "block_order": [
+        "template--17895924597023__e7200ef0-04c4-40ca-bf61-461e055c6391-167629100493fc7535-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#492218",
+        "button_text_color_secondary": "#492218"
+      }
+    },
+    "861e7c65-2edc-4deb-ad02-eb90d1526cbb": {
+      "type": "rich-text",
+      "settings": {
+        "id": "",
+        "classes": "",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "Book An Appointment",
+        "button_link": "https:\/\/themoissanitecompany.as.me\/schedule.php?appointmentType=38852122",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f8f7f2",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "655d233a-3163-47b2-bd8d-3dcd584cfc3f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17895924597023__655d233a-3163-47b2-bd8d-3dcd584cfc3f-167629100493fc7535-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/solitaire.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Step 1 Discover",
+            "content": "<p>Discover our range of bespoke moissanite engagement & wedding rings.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17895924597023__655d233a-3163-47b2-bd8d-3dcd584cfc3f-167629100493fc7535-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "712970db-2675-4410-b12c-34a140f201b8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17895924597023__712970db-2675-4410-b12c-34a140f201b8-167629100493fc7535-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/03_90d79915-ff35-4388-b60b-3d7b1638612c.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Step 2 Claim Your Free Ring Sizer",
+            "content": "<p>Before choosing your dream moissanite ring, measure your ring size at home and purchase with confidence. We’ll send you one of our ring sizers complimentary. Otherwise, book an appointment where our bespoke consultants can size your finger correctly.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "Ring Sizer Tool",
+            "button_link_alt": "shopify:\/\/pages\/ring-sizing"
+          }
+        }
+      },
+      "block_order": [
+        "template--17895924597023__712970db-2675-4410-b12c-34a140f201b8-167629100493fc7535-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#492218",
+        "button_text_color_secondary": "#492218"
+      }
+    },
+    "c411ef67-88fd-4524-bd9d-e1a4c080d43b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17895924597023__c411ef67-88fd-4524-bd9d-e1a4c080d43b-167629100493fc7535-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/04_79182708-7c99-480c-90e9-5e03c6a35439.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "We Craft",
+            "content": "<p>Crafted with the utmost precision and passion, our team of experienced jewellers craft your ring.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17895924597023__c411ef67-88fd-4524-bd9d-e1a4c080d43b-167629100493fc7535-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "745559e4-6c07-4335-af5c-aa0e039d4ae8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17895924597023__745559e4-6c07-4335-af5c-aa0e039d4ae8-167629100493fc7535-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/05_447eee59-a707-4e27-b2dc-5a42000af8a5.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Step 4 Recieve Your Dream Ring",
+            "content": "<p>From our hands to yours, recieve your Moissanite Company or Cultured Clarity™ Ring.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17895924597023__745559e4-6c07-4335-af5c-aa0e039d4ae8-167629100493fc7535-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "964ef912-47cc-41f5-83f8-139ca10c66a2": {
+      "type": "rich-text",
+      "settings": {
+        "id": "",
+        "classes": "",
+        "subheading": "",
+        "title": "Your dream ring awaits...",
+        "content": "<p>Outlined below are the areas we service in New South Wales.<\/p><p><\/p><p>Sydney, Tweed Heads, Albury, Port Macquarie, Tamworth, Orange, Dubbo, Queanbeyan, Lismore, Bathurst, Coffs Harbour, Wagga Wagga, Newcastle, Central Coast, Wollongong, Maitland & more.<\/p>",
+        "button_text": "Shop Now",
+        "button_link": "shopify:\/\/collections\/engagement-rings",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "47ef5660-1989-4318-b526-b6ef2c2fcc26": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--17895924597023__47ef5660-1989-4318-b526-b6ef2c2fcc26-167629193593591982-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "engagement-rings",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "2ac02c23-cd1e-4363-a1b9-cc6e8ad4141e": {
+          "type": "collection",
+          "settings": {
+            "collection": "ceremonial-rings",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "bf995c08-2018-4a88-8a23-355b0ac0511b": {
+          "type": "collection",
+          "settings": {
+            "collection": "fine-jewellery",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17895924597023__47ef5660-1989-4318-b526-b6ef2c2fcc26-167629193593591982-0",
+        "2ac02c23-cd1e-4363-a1b9-cc6e8ad4141e",
+        "bf995c08-2018-4a88-8a23-355b0ac0511b"
+      ],
+      "custom_css": [
+        "h3 {font-size: 32px; font-weight: normal;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "See Related Products",
+        "content": "",
+        "products_count": 4,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "ddb35ab0-ffd4-4a06-96d9-b9b3ddd6dbd1",
+    "main",
+    "44b6fc6f-66b0-4426-a2ca-0e8bdae1df53",
+    "e7200ef0-04c4-40ca-bf61-461e055c6391",
+    "861e7c65-2edc-4deb-ad02-eb90d1526cbb",
+    "655d233a-3163-47b2-bd8d-3dcd584cfc3f",
+    "712970db-2675-4410-b12c-34a140f201b8",
+    "c411ef67-88fd-4524-bd9d-e1a4c080d43b",
+    "745559e4-6c07-4335-af5c-aa0e039d4ae8",
+    "964ef912-47cc-41f5-83f8-139ca10c66a2",
+    "47ef5660-1989-4318-b526-b6ef2c2fcc26"
+  ]
+}

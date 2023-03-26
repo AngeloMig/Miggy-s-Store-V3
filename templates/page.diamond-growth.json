@@ -1,0 +1,212 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Banner_b4d103a9-7964-4ce1-937c-b5995cb892a8.png",
+        "image_mobile": "shopify:\/\/shop_images\/Diamond_Growth_750x974_mobile.png",
+        "subheading": "",
+        "title": "How Cultured Diamonds Are Grown",
+        "content": "<p>Learn about the 4C's<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2": {
+      "type": "rich-text",
+      "settings": {
+        "id": "richtext-heading",
+        "classes": "remove-vertical-spacing top bottom",
+        "subheading": "",
+        "title": "",
+        "content": "<p>Laboratory diamonds are grown ethically in controlled conditions by one of two methods. Chemical Vapour Deposition (CVD) or High Pressure High Temperature (HPHT).<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#ffffff",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6328075b-f8e9-482c-84b9-71c175b4d286": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HPHT.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "High Pressure High Temperature - HPHT",
+            "content": "<p>The HPHT growth process replicates the natural conditions under which a diamond forms. A carbon source, metal catalyst and diamond seed are placed in a capsule. With extreme pressure and heat, the catalyst and carbon crystallise on the diamond seed. The result is a rough HPHT laboratory grown diamond. The rough laboratory diamond is then expertly cut by gem cutters and graded.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CVD_360626ac-b60c-4821-b4db-da93a8f972f5.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Chemical Vapour Deposition - CVD",
+            "content": "<p>The CVD growth process takes place in a vacuum chamber. This method involves heating hydrocarbon gas into plasma, releasing carbon atoms which rain down on a substrate of diamond seed, growing the diamond upward in vertical layers.The rough laboratory diamond is then expertly cut by gem cutters and graded.<\/p><p>Cultured diamonds are conflict free and grown in ethical laboratory conditions. They require no mining, caving or dredging which severely impacts our environment and ecosystems. <\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "#ffffff",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "c0188088-fd94-4477-be72-3d674c246f9e": {
+      "type": "rich-text",
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "subheading": "",
+        "title": "",
+        "content": "<p>Cultured diamonds are conflict free and grown in ethical laboratory conditions. They require no mining, caving or dredging which severely impacts our environment and ecosystems.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "fd9d73a6-08d9-452e-a724-abf484730662": {
+      "type": "custom-collection-list",
+      "blocks": {
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Build.png",
+            "subheading": "",
+            "title": "Build Your Dream Ring",
+            "content": "<p>Co-create a ring as unique as your love story.<\/p>",
+            "link_text": "Begin",
+            "link_url": "shopify:\/\/pages\/ring-builder",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Learn-About.png",
+            "subheading": "",
+            "title": "Learn About Our Diamonds",
+            "content": "<p>Discover our range of Cultured Clarity™ Laboratory Diamonds.<\/p>",
+            "link_text": "Begin",
+            "link_url": "shopify:\/\/pages\/cultured-clarity",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0",
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 600,
+        "image_height_mobile": 400,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41",
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2",
+    "6328075b-f8e9-482c-84b9-71c175b4d286",
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd",
+    "c0188088-fd94-4477-be72-3d674c246f9e",
+    "fd9d73a6-08d9-452e-a724-abf484730662"
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Banner_546d2cb2-94bc-4cda-9369-b04cf0c66d1d.png",
+        "image_mobile": "shopify:\/\/shop_images\/our_craft_banner_mobile.png",
+        "subheading": "",
+        "title": "Our Craft",
+        "content": "<p>Discover more about our bespoke and custom processes.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "7bdb3f09-65f2-4a09-8980-31d79fe1915a": {
+      "type": "rich-text",
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "subheading": "",
+        "title": "",
+        "content": "<p>A thousand years old craft, meets modern sustainable practices and design. Each ring is created with intention, unrivalled craftsmanship and most importantly passion.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#ffffff",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6328075b-f8e9-482c-84b9-71c175b4d286": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/01_e271b0ac-cc76-4c2f-b4df-bac98ce7313e.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "01 3D Printing",
+            "content": "<p>Your computer aided design is printed with 3D printing technology, creating the perfect wax model of your ring.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/02_a44d1f69-4dc8-411d-95a2-7c92a611943c.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "02 Moulding",
+            "content": "<p>After your wax model is meticulously created it is then attached to a sprue tree. The sprue tree may contain more than one of our rings, if the same alloy is being utilised for multiple designs.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "#ffffff",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "68e59628-90f2-454e-9acf-bb561a7511de": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__68e59628-90f2-454e-9acf-bb561a7511de-167428110969622551-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/66.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "03 Casting",
+            "content": "<p>The sprue tree with your beautiful wax model is then placed into a flask, which is filled with a plaster-like substance called investment. The flask is then vacuum treated to ensure that no air pockets compromise the quality of the cast. The flask is then placed in a kiln and baked at 1000 degrees, melting the wax. All that is left is a hollow impression of your dream ring.<br\/><br\/>This is referred to as the lost wax process. We then pour your chosen molten metal into the flask. Once cooled, the sprue is removed from the flask and we can begin the de-spruing process. Significant quality control checks are performed throughout the entirety of the casting process.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__68e59628-90f2-454e-9acf-bb561a7511de-167428110969622551-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "493237a9-c396-43a3-9e65-0f010c4ef659": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024674468013__493237a9-c396-43a3-9e65-0f010c4ef659-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/04_59b4b3e5-70fc-48ff-836a-d4c7e6563c57.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "04 Finishing",
+            "content": "<p>We begin by tidying and pre-polishing your ring from the extensive casting process. We then begin the meticulous stone setting process. Each moissanite or cultured diamond is seated in place and secured with prongs and requires the utmost care and precision.<br\/><br\/>After the stone setting has been completed, we complete the final polishing of your ring. From here we perform extensive final quality control checks.<br\/><br\/>Your beautiful ring leaves our hands, and is ready to become forever yours.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__493237a9-c396-43a3-9e65-0f010c4ef659-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "c0188088-fd94-4477-be72-3d674c246f9e": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "id": "",
+        "classes": "",
+        "subheading": "",
+        "title": "",
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f8f7f2",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "fd9d73a6-08d9-452e-a724-abf484730662": {
+      "type": "custom-collection-list",
+      "blocks": {
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Our-Story_84659d18-f309-4f88-8b99-d3fc309b666f.png",
+            "subheading": "",
+            "title": "Our Story",
+            "content": "",
+            "link_text": "Discover",
+            "link_url": "shopify:\/\/pages\/our-story",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Our-Bespoke.png",
+            "subheading": "",
+            "title": "Bespoke Process",
+            "content": "",
+            "link_text": "Discover",
+            "link_url": "shopify:\/\/pages\/our-process",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1",
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 600,
+        "image_height_mobile": 400,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d0918b5b-5c72-48a1-9bf3-41c2d0d7e559": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Cultured-Clarity-x-The-May-Studio-43-desktop_f8e2910f-ff16-49e4-bd49-d226962b6e54.jpg",
+        "subheading": "",
+        "title": "Build Your Dream Ring",
+        "content": "<p>We walk the journey with you, every step of the way. Create your bespoke moissanite or cultured diamond ring<br\/><br\/><\/p>",
+        "button_text": "DESIGN YOUR RING",
+        "button_link": "shopify:\/\/pages\/ring-builder",
+        "link_style": "button",
+        "button_outline": true,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 10
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41",
+    "7bdb3f09-65f2-4a09-8980-31d79fe1915a",
+    "6328075b-f8e9-482c-84b9-71c175b4d286",
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd",
+    "68e59628-90f2-454e-9acf-bb561a7511de",
+    "493237a9-c396-43a3-9e65-0f010c4ef659",
+    "c0188088-fd94-4477-be72-3d674c246f9e",
+    "fd9d73a6-08d9-452e-a724-abf484730662",
+    "d0918b5b-5c72-48a1-9bf3-41c2d0d7e559"
+  ]
+}

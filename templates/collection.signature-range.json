@@ -1,0 +1,123 @@
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "show_collection_image": true,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "section_height": "auto",
+        "text_width": "medium",
+        "image": "shopify:\/\/shop_images\/Banner-Engagement.png",
+        "image_mobile": "shopify:\/\/shop_images\/Moissanite_Banners_mobile_ad25df6c-9c38-4b33-8d48-d18532cbefa1.png",
+        "content": "<p>Lovingly crafted in Australia.<\/p>",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 30,
+        "quick_links": ""
+      }
+    },
+    "dcdb6870-d532-401d-93b1-f4e37911c69b": {
+      "type": "custom-collection-list",
+      "blocks": {
+        "template--16012644417709__dcdb6870-d532-401d-93b1-f4e37911c69b-1674178706306f9a76-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "moissanite",
+            "image": "shopify:\/\/shop_images\/Moissanite_5109b0b7-0d8c-44c9-98d6-fa1218d57744.png",
+            "subheading": "",
+            "title": "Moissanite",
+            "content": "<p>Australia's highest quality Moissanite. Learn more about the gemstone from the stars.<\/p>",
+            "link_text": "",
+            "link_url": "shopify:\/\/pages\/our-moissanite",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16012644417709__dcdb6870-d532-401d-93b1-f4e37911c69b-1674178706306f9a76-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "loose-stones",
+            "image": "shopify:\/\/shop_images\/cultured-diamonds_d972b8a8-63b6-459c-ba98-0d4b1c941366.png",
+            "subheading": "",
+            "title": "Cultured Diamonds",
+            "content": "<p>Discover our range of Cultured Clarity™ lab grown diamonds. A hand-selected offering of only the highest quality ethical diamonds.<\/p>",
+            "link_text": "",
+            "link_url": "shopify:\/\/pages\/cultured-clarity",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "07007e57-9f1b-47db-be7a-a529248dc350": {
+          "type": "collection",
+          "settings": {
+            "collection": "signature-solitaires",
+            "image": "shopify:\/\/shop_images\/SignatureRange_bd94cb32-1c1e-43d4-9a04-2e58cafe114d.png",
+            "subheading": "",
+            "title": "Signature Range",
+            "content": "<p>Explore our Signature Range of engagement rings.<\/p>",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/our-signature-range",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "4df10595-48ed-429e-8d59-b60a312e530d": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/RTW.png",
+            "subheading": "",
+            "title": "Ready To Wear",
+            "content": "<p>Shop our range of ready made rings, available for immidiate resizing and shipment.<\/p>",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/in-stock-ready-to-ship",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16012644417709__dcdb6870-d532-401d-93b1-f4e37911c69b-1674178706306f9a76-0",
+        "template--16012644417709__dcdb6870-d532-401d-93b1-f4e37911c69b-1674178706306f9a76-1",
+        "07007e57-9f1b-47db-be7a-a529248dc350",
+        "4df10595-48ed-429e-8d59-b60a312e530d"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 300,
+        "image_height_mobile": 225,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_sort_by": true,
+        "products_per_page": 24,
+        "mobile_products_per_row": "1",
+        "desktop_products_per_row": 3,
+        "show_filters": true,
+        "show_filter_group_name": false,
+        "show_color_swatch": true,
+        "open_first_filter_group": false,
+        "filter_position": "drawer",
+        "promotion_position": "top",
+        "promotion_height": "small"
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "dcdb6870-d532-401d-93b1-f4e37911c69b",
+    "main"
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": "",
+            "sizechart_selector": "pdf_file",
+            "pdf_file": "https:\/\/cdn.shopify.com\/s\/files\/1\/0714\/6455\/0687\/files\/International_Ring_Size_Converstion_Chart.pdf?v=1676419046"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "a3a8d838-b204-4201-b232-a37502a3ae7d": {
+          "type": "line_item_property",
+          "settings": {
+            "label": "Size",
+            "type": "dropdown",
+            "dropdown-values": "F,F 1\/2,G,G 1\/2,H, H 1\/2, I, I 1\/2, J, J 1\/2, K, K 1\/2,L,L 1\/2,M,M 1\/2,N,N 1\/2,O,O 1\/2,P,P 1\/2,Q,Q 1\/2,R,R 1\/2,S,S 1\/2,T,T 1\/2,U,U 1\/2,V,V 1\/2,W,W 1\/2,X,X 1\/2,Y,Z,Z 1\/2",
+            "required": false,
+            "allow_long_text": false,
+            "checked_value": "Yes",
+            "unchecked_value": "No",
+            "pdf_file": "https:\/\/cdn.shopify.com\/s\/files\/1\/0714\/6455\/0687\/files\/International_Ring_Size_Converstion_Chart.pdf?v=1676419046"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "ab94ad8d-b54c-45b3-9344-393b05c832dc": {
+          "type": "estimate",
+          "settings": {
+            "weeks": 6
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker",
+        "quantity_selector",
+        "a3a8d838-b204-4201-b232-a37502a3ae7d",
+        "buy_buttons",
+        "ab94ad8d-b54c-45b3-9344-393b05c832dc"
+      ],
+      "settings": {
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": false,
+        "show_size_chart": false,
+        "size_chart_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "031e6db8-c046-4c66-a429-edffdd40fafe": {
+          "type": "image-with-text",
+          "settings": {
+            "heading": "Details",
+            "image": "shopify:\/\/shop_images\/Details_868742bd-5cdb-43b7-ba88-e7fdaac41ac0.png",
+            "content": "<p>{{ product.metafields.custom.product_details | metafield_tag }}<\/p>"
+          }
+        },
+        "0d25f0d4-49ae-4447-81ab-afc4ae4601c4": {
+          "type": "image-with-text",
+          "settings": {
+            "heading": "What You Recieve",
+            "image": "shopify:\/\/shop_images\/WhatYouReceive_821b636a-be68-4a1d-a4f0-e95c465db405.png",
+            "content": "<p>Receiving your bespoke piece from The Moissanite Company is an incomparable experience. Within your box from us you will receive:<\/p><ul><li>Gift Box<\/li><li>Ring Box and Velvet Pouch<\/li><li>Polishing Cloth<\/li><li>Care Guide<\/li><li>Gemstone Certification<\/li><li>A Gift From Us<\/li><\/ul>"
+          }
+        },
+        "2c09c26c-9b00-4446-99b2-ae5359523358": {
+          "type": "image-with-text",
+          "settings": {
+            "heading": "Payment Options",
+            "image": "shopify:\/\/shop_images\/PaymentOptions_a2d03edd-c0ec-4872-bf2c-eb56b4f6d547.png",
+            "content": "<p>We’re proud to offer flexible payment options to our customers, via ZipPay and Humm. Learn more about these interest free payment options to see if they are suitable for you.<\/p>",
+            "first_logo": "shopify:\/\/shop_images\/humm.png",
+            "second_logo": "shopify:\/\/shop_images\/Zip_Logo.png"
+          }
+        },
+        "752e8076-78e3-432f-94aa-7d9296155292": {
+          "type": "image-with-text",
+          "settings": {
+            "heading": "Shipping & Collections",
+            "image": "shopify:\/\/shop_images\/Whats-in-the-box.png",
+            "content": "<p>We offer worldwide complimentary express shipping, inclusive of parcel insurance. If you are Brisbane based and would prefer to collect your ring, you can select the <em><strong>Pick Up<\/strong><\/em> option while completing your order.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "031e6db8-c046-4c66-a429-edffdd40fafe",
+        "0d25f0d4-49ae-4447-81ab-afc4ae4601c4",
+        "2c09c26c-9b00-4446-99b2-ae5359523358",
+        "752e8076-78e3-432f-94aa-7d9296155292"
+      ],
+      "settings": {
+      }
+    },
+    "648683db-b041-46bb-b113-44353e83d3c1": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--17812915487007__648683db-b041-46bb-b113-44353e83d3c1-16757459112bb0124f-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond_77b30b60-7114-469b-8e62-8c94769ef7ce.png",
+            "custom_icon_width": 30,
+            "title": "",
+            "content": "<p>Complimentary Engraving<\/p>"
+          }
+        },
+        "template--17812915487007__648683db-b041-46bb-b113-44353e83d3c1-16757459112bb0124f-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond_77b30b60-7114-469b-8e62-8c94769ef7ce.png",
+            "custom_icon_width": 30,
+            "title": "",
+            "content": "<p>Express Worldwide Shipping<\/p>"
+          }
+        },
+        "template--17812915487007__648683db-b041-46bb-b113-44353e83d3c1-16757459112bb0124f-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond_77b30b60-7114-469b-8e62-8c94769ef7ce.png",
+            "custom_icon_width": 30,
+            "title": "",
+            "content": "<p>Gemstone Certification<\/p>"
+          }
+        },
+        "template--17812915487007__648683db-b041-46bb-b113-44353e83d3c1-16757459112bb0124f-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond_77b30b60-7114-469b-8e62-8c94769ef7ce.png",
+            "custom_icon_width": 30,
+            "title": "",
+            "content": "<p>Lifetime Warranty<\/p>"
+          }
+        },
+        "63e13924-252d-4b36-8438-eb4f89fbef1c": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond_77b30b60-7114-469b-8e62-8c94769ef7ce.png",
+            "custom_icon_width": 30,
+            "title": "",
+            "content": "<p>Sustainable Materials<\/p>"
+          }
+        },
+        "489f8b1b-ca21-4091-8bff-5c0350ef625e": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond_77b30b60-7114-469b-8e62-8c94769ef7ce.png",
+            "custom_icon_width": 30,
+            "title": "",
+            "content": "<p>Bespoke Made Just For You<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17812915487007__648683db-b041-46bb-b113-44353e83d3c1-16757459112bb0124f-0",
+        "template--17812915487007__648683db-b041-46bb-b113-44353e83d3c1-16757459112bb0124f-1",
+        "template--17812915487007__648683db-b041-46bb-b113-44353e83d3c1-16757459112bb0124f-2",
+        "template--17812915487007__648683db-b041-46bb-b113-44353e83d3c1-16757459112bb0124f-3",
+        "63e13924-252d-4b36-8438-eb4f89fbef1c",
+        "489f8b1b-ca21-4091-8bff-5c0350ef625e"
+      ],
+      "settings": {
+        "class": "w-small",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "99813933-70c1-41ad-8c9a-c4cc8d35bc27": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--17795823632671__99813933-70c1-41ad-8c9a-c4cc8d35bc27-16757745537986c41c-0": {
+          "type": "item",
+          "settings": {
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Our Sustainable Packaging",
+            "content": "<p>Our commitment to ethicality extends to the way we package and send your piece. Our divine packaging has been intentionally created to keep for a lifetime and act as safe storage for your beautiful bespoke piece, made from as little plastic as possible.Our outer packaging is completely recyclable.All of our parcels are sent in padded mailers that are recyclable and compostable.Our shipping courier of choice also guarantees carbon neutral parcel delivery.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17795823632671__99813933-70c1-41ad-8c9a-c4cc8d35bc27-16757745537986c41c-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "7a15bab1-52e0-4a6f-b628-f9d2073826bd": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--17795823632671__7a15bab1-52e0-4a6f-b628-f9d2073826bd-16757745537986c41c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/What_s_in_the_box.jpg",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Trillion Trees",
+            "content": "<p>A tree is planted for every ring we craft. We are proud donors to Trillion Trees - an organisation that is dedicated to improving our mother earth by planting trees to ‘restore degraded land, support biodiversity, and encourage the growth of tree canopies in urban and rural settings’ across Australia. <a href=\"\/pages\/our-commitment\" title=\"Our Commitment\">Learn more about our commitment to sustainability.<\/a><\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17795823632671__7a15bab1-52e0-4a6f-b628-f9d2073826bd-16757745537986c41c-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "6b7ed594-2d1f-42cd-af98-943757182777": {
+      "type": "custom-collection-list",
+      "blocks": {
+        "template--17795823632671__6b7ed594-2d1f-42cd-af98-943757182777-167577476379f3b4ea-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Mask_group_1.png",
+            "subheading": "",
+            "title": "Gemstone Education: Moissanite",
+            "content": "",
+            "link_text": "LEARN MORE",
+            "link_url": "shopify:\/\/pages\/our-moissanite",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--17795823632671__6b7ed594-2d1f-42cd-af98-943757182777-167577476379f3b4ea-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Mask_group_2.png",
+            "subheading": "",
+            "title": "Gemstone Education: Cultured Diamonds",
+            "content": "",
+            "link_text": "LEARN MORE",
+            "link_url": "shopify:\/\/pages\/cultured-clarity",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--17795823632671__6b7ed594-2d1f-42cd-af98-943757182777-167577476379f3b4ea-0",
+        "template--17795823632671__6b7ed594-2d1f-42cd-af98-943757182777-167577476379f3b4ea-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 425,
+        "image_height_mobile": 400,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "db1b6659-5168-46d6-aad1-8686887807aa": {
+      "type": "text-with-icons",
+      "disabled": true,
+      "blocks": {
+        "template--17812915487007__db1b6659-5168-46d6-aad1-8686887807aa-16757459112bb0124f-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/Vector.png",
+            "custom_icon_width": 50,
+            "title": "Unrivalled Craftsmanship",
+            "content": "<p>Australia's highest quality Moissanite and Cultured Diamonds, paired with meticulous craftsmanship at the forefront of each ring, crafted in Australia.<\/p>"
+          }
+        },
+        "template--17812915487007__db1b6659-5168-46d6-aad1-8686887807aa-16757459112bb0124f-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/Vector_1.png",
+            "custom_icon_width": 50,
+            "title": "Giving Back",
+            "content": "<p>Ethicality and sustainability are at the forefront of everything we do.<\/p>"
+          }
+        },
+        "template--17812915487007__db1b6659-5168-46d6-aad1-8686887807aa-16757459112bb0124f-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/Vector_2.png",
+            "custom_icon_width": 50,
+            "title": "The Journey",
+            "content": "<p>We’re here for you and your journey. We offer complimentary resizing and a lifetime warranty.<\/p>"
+          }
+        },
+        "template--17812915487007__db1b6659-5168-46d6-aad1-8686887807aa-16757459112bb0124f-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon": "shopify:\/\/shop_images\/icon-affordability-honesty_128843e1-e0d5-4d4a-b0e6-7c33143108ea.png",
+            "custom_icon_width": 50,
+            "title": "Affordability & Honesty",
+            "content": "<p>We place priority on keeping our pieces attainable for every couple.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17812915487007__db1b6659-5168-46d6-aad1-8686887807aa-16757459112bb0124f-0",
+        "template--17812915487007__db1b6659-5168-46d6-aad1-8686887807aa-16757459112bb0124f-1",
+        "template--17812915487007__db1b6659-5168-46d6-aad1-8686887807aa-16757459112bb0124f-2",
+        "template--17812915487007__db1b6659-5168-46d6-aad1-8686887807aa-16757459112bb0124f-3"
+      ],
+      "settings": {
+        "class": "vertical-breather-2",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "",
+        "title": "See Related Products",
+        "recommendations_count": 4,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content",
+    "648683db-b041-46bb-b113-44353e83d3c1",
+    "99813933-70c1-41ad-8c9a-c4cc8d35bc27",
+    "7a15bab1-52e0-4a6f-b628-f9d2073826bd",
+    "6b7ed594-2d1f-42cd-af98-943757182777",
+    "db1b6659-5168-46d6-aad1-8686887807aa",
+    "product-recommendations"
+  ]
+}

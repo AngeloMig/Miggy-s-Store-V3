@@ -1,0 +1,253 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Banner-CustomRing.png",
+        "image_mobile": "shopify:\/\/shop_images\/crd_banner_mobile.png",
+        "subheading": "",
+        "title": "Custom Ring Design",
+        "content": "<p>Create a ring as unique as your love story.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "bottom_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "6328075b-f8e9-482c-84b9-71c175b4d286": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Custom-ring-design-01.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Our Custom Process",
+            "content": "<p>Our Custom Ring Design Process is a way for you to co-create a completely one of a kind ring. We work closely with you through the intricate design process to bring your vision to life.<br\/><br\/>Our Custom Ring Design incurs no additional fees, with a turnaround of 6-8 weeks.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "id": "richtext-heading",
+        "classes": "remove-vertical-spacing top bottom",
+        "subheading": "",
+        "title": "ETERNAL 💎  BRILLIANCE",
+        "content": "<p>We have proudly created our own Signature range of moissanites, Eternal Brilliance Moissanite.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f8f7f2",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "25603ada-3ff5-41a2-8e7b-5083bd67137c": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--17827911336223__25603ada-3ff5-41a2-8e7b-5083bd67137c-16757468448d2c9e29-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/33.png",
+            "tab_label": "",
+            "subheading": "Choosing Your Gemstone",
+            "title": "Moissanite or Cultured Diamond?",
+            "content": "<p>A moissanite is its own unique gemstone, just as sapphires and emeralds are their own unique gemstone. Moissanite however, boasts a similar durability to a diamond, as well as an uncanny visual resemblance to diamond, making it the perfect alternative for bridal jewellery.<br\/><br\/>Moissanite is a more affordable option when compared to cultured diamonds. Ranging between $1,200.00 - $5,000.00. Moissanite allows you indulge in your dream design and a large carat size, without exceeding a reasonable budget.<br\/><br\/>A moissanite is the perfect choice for somebody who desires the highest quality diamond alternative, that is ethical and affordable.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "Learn More",
+            "button_link_alt": "shopify:\/\/pages\/moissanite"
+          }
+        }
+      },
+      "block_order": [
+        "template--17827911336223__25603ada-3ff5-41a2-8e7b-5083bd67137c-16757468448d2c9e29-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "889c4af5-c139-48a9-8e35-1086e274e68e": {
+      "type": "text-with-icons",
+      "disabled": true,
+      "blocks": {
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond_77b30b60-7114-469b-8e62-8c94769ef7ce.png",
+            "custom_icon_width": 30,
+            "title": "Handcrafted In Australia",
+            "content": ""
+          }
+        },
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond_77b30b60-7114-469b-8e62-8c94769ef7ce.png",
+            "custom_icon_width": 30,
+            "title": "No Custom Fees",
+            "content": ""
+          }
+        },
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond_77b30b60-7114-469b-8e62-8c94769ef7ce.png",
+            "custom_icon_width": 30,
+            "title": "Your Dream Ring in 6-8 weeks",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-0",
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-1",
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-2"
+      ],
+      "settings": {
+        "class": "",
+        "background": "#f8f7f2",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "791ee3e3-0f24-4876-9ec1-8bd2a1492890": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<script type=\"text\/javascript\" src=\"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/iframe-resizer\/3.5.14\/iframeResizer.min.js\"><\/script><iframe src=\"https:\/\/hello.dubsado.com\/public\/form\/view\/63d4914d2d8db9fd5ae19191\" frameborder=\"0\" style=\"width:1px; min-width:100%;\"><\/iframe><script type=\"text\/javascript\">setTimeout(function(){iFrameResize({checkOrigin: false, heightCalculationMethod: \"taggedElement\"});}, 30)<\/script>",
+        "add_vertical_spacing": false,
+        "background_type": "boxed",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "fd9d73a6-08d9-452e-a724-abf484730662": {
+      "type": "custom-collection-list",
+      "blocks": {
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Custom-Ring-Archive.png",
+            "subheading": "",
+            "title": "Custom Ring Archive",
+            "content": "",
+            "link_text": "Become Inspired",
+            "link_url": "shopify:\/\/pages\/custom-ring-archive",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Discover-Our-Process.png",
+            "subheading": "",
+            "title": "Discover Our Process",
+            "content": "",
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/our-process",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0",
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 600,
+        "image_height_mobile": 400,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41",
+    "6328075b-f8e9-482c-84b9-71c175b4d286",
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2",
+    "25603ada-3ff5-41a2-8e7b-5083bd67137c",
+    "889c4af5-c139-48a9-8e35-1086e274e68e",
+    "791ee3e3-0f24-4876-9ec1-8bd2a1492890",
+    "fd9d73a6-08d9-452e-a724-abf484730662"
+  ]
+}

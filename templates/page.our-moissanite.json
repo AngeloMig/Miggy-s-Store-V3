@@ -1,0 +1,354 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Banner_3f3af55a-0d49-483e-8aa0-f393d1dcb8d5.png",
+        "image_mobile": "shopify:\/\/shop_images\/Moissanite_Banners_mobile_6af304b1-5850-411c-a741-8cf59067d855.png",
+        "subheading": "",
+        "title": "Our Moissanite",
+        "content": "<p>Discover more about <em>The Gemstone From The Stars.<\/em><\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "6328075b-f8e9-482c-84b9-71c175b4d286": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/01_b9958bfb-f5bf-452c-8dbb-5f9650e910ed.png",
+            "tab_label": "",
+            "subheading": "Eternally Brilliant",
+            "title": "Moissanite Gemstones",
+            "content": "<p>Moissanites are recognised as the 'gemstone from the stars', named after French chemist, Henri Moissan who discovered the stone in a meteorite crater in 1893 and mistook it for a diamond. Naturally occurring Moissanite is incredibly rare. Scientists have since innovated and developed a synthesisation process to create Silicon Carbide (SiC) crystals which can be cut into the worlds most brilliant gemstone.<\/p>",
+            "button_text": "",
+            "button_link": "shopify:\/\/pages\/ring-builder",
+            "button_text_alt": "Discover",
+            "button_link_alt": "shopify:\/\/pages\/ring-builder"
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "ed18cb84-a46e-405c-8e60-3019d90f16f0": {
+      "type": "image",
+      "settings": {
+        "id": "",
+        "classes": "",
+        "image": "shopify:\/\/shop_images\/Eternal-Brilliance-Logo.png",
+        "background": "#f8f7f2"
+      }
+    },
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2": {
+      "type": "rich-text",
+      "settings": {
+        "id": "richtext-heading",
+        "classes": "remove-vertical-spacing top bottom",
+        "subheading": "",
+        "title": "",
+        "content": "<p>We have proudly created our own Signature Range of moissanites, Eternal Brilliance Moissanite.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f8f7f2",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/02_4e1054e3-e28c-4729-9578-df136479ddb8.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<p>With expert synthesisation and gem-cutting technologies at the core of  our practices, our Moissanite is grown and cut to the exacting standards set by The Moissanite Company  to create the most diamond-like alternative, in terms of quality and appearance.<\/p><p>We pioneer the moissanite industry with an unwavering commitment to producing the highest quality gemstones, whilst also remaining committed to our core values of maintaining a strong devotion to sustainable manufacturing.<\/p><p>All Eternal Brilliance Moissanite gemstones we produce and utilise are D colour and VVS1 clarity, equivalent to the GIA's standard of a colourless diamond. We also work with a variety of coloured moissanites and our Signature Champagne moissanite. We are proud to offer Australia's highest quality moissanite.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "#ffffff",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "68e59628-90f2-454e-9acf-bb561a7511de": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__68e59628-90f2-454e-9acf-bb561a7511de-167428110969622551-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/03_c416c6ca-0199-4e9a-8ff8-546fd7ba8063.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Authenticity & Grading",
+            "content": "<p><em>Laser Engraving Identification<\/em><\/p><p>Each Eternal Brilliance Stone is unique, one of a kind and laser engraved with a unique code on the girdle of the moissanite. This ensures authentication and stone identification. This identification inscription cannot be seen with the naked eye, and does not obstruct the cut of your moissanite stone.<\/p><p><em>Certificate Of Authenticity<\/em><\/p><p>With your completed ring you will also receive an official Eternal Brilliance Certificate of Authenticity. Our Authenticity Certificates are digital and encrypted as each one is unique to the correlating moissanite gemstone. We utilise digital reports as it aligns with our stance on ethicality, and keeping our carbon footprint to a minimum. We can however, print your report upon request.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__68e59628-90f2-454e-9acf-bb561a7511de-167428110969622551-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "25603ada-3ff5-41a2-8e7b-5083bd67137c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17827911336223__25603ada-3ff5-41a2-8e7b-5083bd67137c-16757468448d2c9e29-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/04_e7eb521c-f2ad-4c17-8c78-d8ab8e41fcbf.png",
+            "tab_label": "",
+            "subheading": "Choosing Your Gemstone",
+            "title": "Moissanite or Cultured Diamond?",
+            "content": "<p>A moissanite is its own unique gemstone, just as sapphires and emeralds are their own unique gemstones. Moissanite, however, boasts a similar durability to a diamond, as well as an uncanny visual resemblance to a diamond, making it the perfect alternative for bridal jewellery.<br\/><br\/>Moissanite is a more affordable option when compared to cultured diamonds, ranging between $1,200.00 and $5,000.00. Moissanite allows you to indulge in your dream ring design and a larger carat size, without exceeding a reasonable budget.<br\/><br\/>A moissanite is the perfect choice for somebody who desires the highest quality diamond alternative, that is ethical and affordable.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "Learn More",
+            "button_link_alt": "shopify:\/\/pages\/cultured-clarity"
+          }
+        }
+      },
+      "block_order": [
+        "template--17827911336223__25603ada-3ff5-41a2-8e7b-5083bd67137c-16757468448d2c9e29-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "889c4af5-c139-48a9-8e35-1086e274e68e": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond_77b30b60-7114-469b-8e62-8c94769ef7ce.png",
+            "custom_icon_width": 30,
+            "title": "Durability",
+            "content": "<p>A Moissanite is heirloom quality, the most durable diamond alternative.<\/p>"
+          }
+        },
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond_77b30b60-7114-469b-8e62-8c94769ef7ce.png",
+            "custom_icon_width": 30,
+            "title": "Affordability",
+            "content": "<p>Moissanite is an affordable diamond alternative. You can have your dream ring, without it costing the earth.<\/p>"
+          }
+        },
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond_77b30b60-7114-469b-8e62-8c94769ef7ce.png",
+            "custom_icon_width": 30,
+            "title": "Brilliance",
+            "content": "<p>A breathtakingly unique sparke, the most optically similar to that of a diamond.<\/p>"
+          }
+        },
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond_77b30b60-7114-469b-8e62-8c94769ef7ce.png",
+            "custom_icon_width": 30,
+            "title": "Sustainable",
+            "content": "<p>Created in a laboratory in sustainable and controlled conditions. The more ethical option compared to mined diamonds.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-0",
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-1",
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-2",
+        "template--17827911336223__889c4af5-c139-48a9-8e35-1086e274e68e-1675752762783b9d3b-3"
+      ],
+      "settings": {
+        "class": "",
+        "background": "#f8f7f2",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "fd9d73a6-08d9-452e-a724-abf484730662": {
+      "type": "custom-collection-list",
+      "blocks": {
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/05_5d037856-af79-4482-baca-61bc499350c0.png",
+            "subheading": "",
+            "title": "Build Your Dream Ring",
+            "content": "",
+            "link_text": "BEGIN",
+            "link_url": "shopify:\/\/pages\/ring-builder",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/06.png",
+            "subheading": "",
+            "title": "Discover Our Ceremonial Rings",
+            "content": "",
+            "link_text": "DISCOVER",
+            "link_url": "shopify:\/\/collections\/ceremonial-rings",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0",
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 600,
+        "image_height_mobile": 400,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "aa97374a-c689-4b17-b086-5828d0a8870c": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video": "shopify:\/\/files\/videos\/TMC HR - NO LOGO.mp4",
+        "video_url": "",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": true,
+        "show_video_controls": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41",
+    "6328075b-f8e9-482c-84b9-71c175b4d286",
+    "ed18cb84-a46e-405c-8e60-3019d90f16f0",
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2",
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd",
+    "68e59628-90f2-454e-9acf-bb561a7511de",
+    "25603ada-3ff5-41a2-8e7b-5083bd67137c",
+    "889c4af5-c139-48a9-8e35-1086e274e68e",
+    "fd9d73a6-08d9-452e-a724-abf484730662",
+    "aa97374a-c689-4b17-b086-5828d0a8870c"
+  ]
+}

@@ -1,0 +1,140 @@
+// main: custom.scss
+
+// ULTRA LIGHT
+@font-face {
+  font-family: "Avenir Next";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/AvenirNext-UltraLight-11.ttf?v=1674012215);
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Avenir Next";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/AvenirNext-UltraLightItalic-12.ttf?v=1674012216);
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+// REGULAR 400
+@font-face {
+  font-family: "Avenir Next";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/AvenirNext-Regular-08.ttf?v=1674012215);
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Avenir Next";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/AvenirNext-Italic-05.ttf?v=1674012215);
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+// MEDIUM 500
+@font-face {
+  font-family: "Avenir Next";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/AvenirNext-Medium-06.ttf?v=1674012215);
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Avenir Next";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/AvenirNext-MediumItalic-07.ttf?v=1674012215);
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+// SEMI BOLD 600
+@font-face {
+  font-family: "Avenir Next";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/AvenirNext-DemiBold-03.ttf?v=1674012215);
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Avenir Next";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/AvenirNext-DemiBoldItalic-04.ttf?v=1674012215);
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+// BOLD 700
+@font-face {
+  font-family: "Avenir Next";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/AvenirNext-Bold-01.ttf?v=1674012215);
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Avenir Next";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/AvenirNext-BoldItalic-02.ttf?v=1674012215);
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+// HEAVY 900
+@font-face {
+  font-family: "Avenir Next";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/AvenirNext-Heavy-09.ttf?v=1674012214);
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Avenir Next";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/AvenirNext-HeavyItalic-10.ttf?v=1674012216);
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Baskerville";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/Baskerville-01.ttf?v=1674012215);
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Baskerville";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/Baskerville-Bold-02.ttf?v=1674012215);
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Baskerville";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/Baskerville-Italic-03.ttf?v=1674012214);
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Baskerville";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/Baskerville-BoldItalic-04.ttf?v=1674012215);
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Baskerville";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/Baskerville-SemiBold-05.ttf?v=1674012214);
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Baskerville";
+  src: url(https://cdn.shopify.com/s/files/1/0544/6408/6189/files/Baskerville-SemiBoldItalic-06.ttf?v=1674012215);
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}

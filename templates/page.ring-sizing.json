@@ -1,0 +1,157 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": false,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-02-16_at_10.29.47_am.png",
+        "image_mobile": "shopify:\/\/shop_images\/Screen_Shot_2023-02-16_at_10.31.39_am.png",
+        "subheading": "",
+        "title": "Ring Sizing",
+        "content": "<p>Learn about ring sizing and how to choose your correct size.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 23
+      }
+    },
+    "6328075b-f8e9-482c-84b9-71c175b4d286": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/01_01a2b767-aa03-4cd5-9b6e-5727bb41d6bf.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Our Sizing Guide",
+            "content": "<p>We work with standard Australian ring sizing. Wherever you are located in the world, refer to our international sizing chart below so you choose the right ring size.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "Learn",
+            "button_link_alt": "https:\/\/cdn.shopify.com\/s\/files\/1\/0714\/6455\/0687\/files\/International_Ring_Size_Converstion_Chart_1.pdf?v=1675762042"
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "25603ada-3ff5-41a2-8e7b-5083bd67137c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17827911336223__25603ada-3ff5-41a2-8e7b-5083bd67137c-16757468448d2c9e29-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/02_2605004b-93e2-4419-91c7-9f836cc7668f.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Complimentary Sizing Tool",
+            "content": "<p>Fill out the form below to be sent our complimentary ring sizing tool. Use this ring sizing tool from the comfort of your own home, and create your dream ring with confidence.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17827911336223__25603ada-3ff5-41a2-8e7b-5083bd67137c-16757468448d2c9e29-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "791ee3e3-0f24-4876-9ec1-8bd2a1492890": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<script type=\"text\/javascript\" src=\"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/iframe-resizer\/3.5.14\/iframeResizer.min.js\"><\/script><iframe src=\"https:\/\/hello.dubsado.com:443\/public\/form\/view\/6166b6beb4d5febbd7d6fcb2\" frameborder=\"0\" style=\"width:1px; min-width:100%;\"><\/iframe><script type=\"text\/javascript\">setTimeout(function(){iFrameResize({checkOrigin: false, heightCalculationMethod: \"taggedElement\"});}, 30)<\/script>",
+        "add_vertical_spacing": false,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "2f8a93a1-81b2-4df4-9a85-fd86a63dda32": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "small",
+        "image": "shopify:\/\/shop_images\/Banner-2.png",
+        "subheading": "",
+        "title": "Complimentary Resize, Warranty & More",
+        "content": "",
+        "button_text": "Learn",
+        "button_link": "shopify:\/\/pages\/warranty",
+        "link_style": "button",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "bottom_left",
+        "text_color": "#ffffff",
+        "button_background": "#f8f7f2",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 10
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41",
+    "6328075b-f8e9-482c-84b9-71c175b4d286",
+    "25603ada-3ff5-41a2-8e7b-5083bd67137c",
+    "791ee3e3-0f24-4876-9ec1-8bd2a1492890",
+    "2f8a93a1-81b2-4df4-9a85-fd86a63dda32"
+  ]
+}

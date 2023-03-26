@@ -1,0 +1,127 @@
+{
+  "sections": {
+    "ddb35ab0-ffd4-4a06-96d9-b9b3ddd6dbd1": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": false,
+        "section_height": "small",
+        "image": "shopify:\/\/shop_images\/TheMoissaniteCompany-7424.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/TheMoissaniteCompany-7424.jpg",
+        "subheading": "",
+        "title": "Bezel Ceremonial",
+        "content": "<p>A bold look for your bold love.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "small",
+        "text_position": "bottom_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "7aaf91f9-d6f7-432f-a3c4-9879c395717a": {
+      "type": "rich-text",
+      "settings": {
+        "id": "",
+        "classes": "",
+        "subheading": "INTRODUCING THE HARPER RING",
+        "title": "",
+        "content": "<p>Each Harper design boasts a gorgeous display of cultured gemstones, set halfway around the band. Nestled within a divine bezel setting, each gemstone is embraced by a solid precious metal border that exudes luxury and sophistication.⁠<\/p>",
+        "button_text": "DISCOVER",
+        "button_link": "shopify:\/\/collections\/womens-ceremonial-bands",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "25720737-01ab-4b0f-be75-91213f7e7915": {
+      "type": "custom-collection-list",
+      "blocks": {
+        "template--16055878484141__25720737-01ab-4b0f-be75-91213f7e7915-167818473209984f6e-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Website_Bezel_Images-03.png",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16055878484141__25720737-01ab-4b0f-be75-91213f7e7915-167818473209984f6e-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Website_Bezel_Images-01.png",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16055878484141__25720737-01ab-4b0f-be75-91213f7e7915-167818473209984f6e-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Website_Bezel_Images-02.png",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16055878484141__25720737-01ab-4b0f-be75-91213f7e7915-167818473209984f6e-0",
+        "template--16055878484141__25720737-01ab-4b0f-be75-91213f7e7915-167818473209984f6e-1",
+        "template--16055878484141__25720737-01ab-4b0f-be75-91213f7e7915-167818473209984f6e-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 425,
+        "image_height_mobile": 400,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "ddb35ab0-ffd4-4a06-96d9-b9b3ddd6dbd1",
+    "main",
+    "7aaf91f9-d6f7-432f-a3c4-9879c395717a",
+    "25720737-01ab-4b0f-be75-91213f7e7915"
+  ]
+}

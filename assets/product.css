@@ -1,0 +1,360 @@
+.image-with-text-product-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  column-gap: 32px;
+  flex-wrap: nowrap;
+}
+
+.image-with-text-product-content img {
+  max-width: 498px;
+}
+
+.iwt-content {
+  max-width: 440px;
+}
+
+@media (max-width: 1400px) {
+  .image-with-text-product-content img {
+    max-width: 400px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .image-with-text-product-content img {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .image-with-text-product-content {
+    flex-wrap: wrap;
+  }
+
+  .iwt-content {
+    max-width: 80%;
+    width: 100%;
+  }
+}
+
+.iwt-content h4 {
+  margin-bottom: 10px;
+  font-family: var(--heading-font-family);
+}
+
+.iwt-content li {
+  line-height: 1.2;
+}
+
+.price--large {
+  font-family: var(--heading-font-family);
+  font-size: 22px;
+  color: #373f41;
+  font-weight: 500;
+}
+
+.inc-gst {
+  font-size: 16px;
+  color: #737b7d;
+  font-weight: 400;
+  margin-left: 10px;
+}
+
+.product-meta {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+.meta-product-desc {
+  margin-bottom: 30px;
+}
+
+.combo-box-metal-type {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.combo-box-metal-type::before {
+  display: block;
+  width: 17px;
+  height: 17px;
+  border-radius: 50%;
+  content: "";
+  background: var(--mt-color);
+}
+
+.combo-box__option-item:hover,
+.combo-box__option-item:focus {
+  background-color: #f8f7f2;
+}
+
+.combo-box {
+  padding: 0;
+}
+
+.select {
+  background-color: #f8f7f2;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.select:hover,
+.block-swatch__item:hover,
+.block-swatch__radio:checked + .block-swatch__item {
+  background-color: #492218;
+  color: #f8f7f2;
+}
+
+.block-swatch__item {
+  background-color: #f8f7f2;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.quantity-selector__input,
+.quantity-selector__button {
+  background-color: #f8f7f2;
+}
+@media screen and (min-width: 741px) {
+  .tabs-nav--loose .tabs-nav__item-list {
+    gap: 0;
+  }
+
+  .tabs-nav--loose .tabs-nav__item-list button {
+    padding: 21px 23px;
+  }
+}
+
+.tabs-nav__item {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.tabs-nav__item[aria-expanded="true"] {
+  font-weight: 600;
+}
+
+.flickity-prev-next-button {
+  height: 24px;
+  position: absolute;
+  width: 24px;
+  top: 0;
+  margin-top: auto;
+  margin-bottom: auto;
+  bottom: 0;
+}
+
+.flickity-prev-next-button svg {
+  fill: #61322c;
+}
+
+.flickity-prev-next-button.next {
+  right: 15px;
+}
+
+.flickity-prev-next-button.previous {
+  left: 15px;
+}
+
+.product__thumbnail-scroll-shadow {
+  display: none;
+}
+
+@media (max-width: 999px) {
+  .flickity-prev-next-button {
+    display: none;
+  }
+}
+
+/* body[data-template="index"]
+  .shopify-section--slideshow
+  .slideshow__slide-list
+  .slideshow__text-wrapper
+  .content-box
+  .content {
+  color: ;
+} */
+
+#ringBuilderTrigger {
+  cursor: pointer;
+}
+
+.estimate {
+  max-width: 427px;
+  margin-bottom: 18px;
+}
+
+.rb-estimate {
+  margin-top: 18px;
+}
+
+[data-content-type="productEngraving"] .rb-sticky {
+  max-width: 529px;
+  max-height: 307px;
+  height: 100%;
+  padding: 0;
+}
+
+.engraving {
+  width: 100%;
+  height: 100%;
+  padding-top: 31px;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+}
+
+.engraving-header {
+  max-width: 387px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.engraving-header h4 {
+  font-family: var(--heading-font-family);
+  font-size: 24px;
+  margin-bottom: 0;
+  color: #373f41;
+}
+
+.engraving-header p {
+  margin-top: 0;
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+.engraving-main {
+  max-width: 368px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.engraving-main input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #000000;
+  text-align: center;
+  padding: 11px;
+}
+
+.engraving-options {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  padding: 8px;
+  gap: 8px;
+}
+
+.engraving-options button {
+  flex: 1;
+  text-align: center;
+  padding: 12px 25px;
+  line-height: 1;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2.2px;
+}
+
+.engraving-cancel-btn {
+  background-color: #f8f7f2;
+  color: #492218;
+}
+
+.engraving-save-btn {
+  background-color: #61322c;
+  color: #ffffff;
+}
+
+:root {
+  --form-input-field-height: 42px;
+}
+
+.select-wrapper > button {
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 2.2px;
+  max-width: 215px;
+  font-weight: 500;
+}
+
+.select {
+  border: none;
+}
+
+.select-wrapper combo-box {
+  max-width: 215px;
+}
+
+.combo-box__option-list button {
+  padding: 10px 12px !important;
+  font-size: 14px !important;
+  letter-spacing: 0.3px !important;
+}
+
+.button:not(.button--text),
+.shopify-challenge__button,
+#shopify-product-reviews .spr-summary-actions-newreview,
+#shopify-product-reviews .spr-button {
+  --font-size-desktop: 14px;
+  letter-spacing: 0.3px;
+}
+
+.tabs-nav--loose .tabs-nav__item-list button {
+  box-shadow: 0 -1px rgb(var(--border-color)) inset;
+}
+
+@media screen and (min-width: 1000px) {
+  .product-sticky-form .button,
+  .product-sticky-form .select {
+    line-height: 42px;
+    height: 42px;
+  }
+}
+
+.block-swatch label.block-swatch__item {
+  font-size: 12px;
+}
+
+.product-form__option-info,
+.product-form__quantity-label {
+  font-size: 14px;
+}
+
+.tabs-nav {
+  margin-bottom: 12px;
+}
+
+@media screen and (min-width: 1000px) {
+  .text-with-icons__list {
+    grid-auto-columns: minmax(145px, 400px);
+  }
+}
+
+.text-with-icons__list {
+  font-size: 15px;
+}
+
+.shopify-section--image-with-text section {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.product-sticky-form__form,
+.product-sticky-form__variants {
+  gap: 5px;
+}
+
+[dir="ltr"] .product-sticky-form__payment-container {
+  margin-left: 0;
+}
+
+.shopify-section--text-with-icons .text-with-icons .text-with-icons__list {
+  gap: 10px;
+}
+
+/* .text-with-icons__item {
+  max-width: 139px;
+} */

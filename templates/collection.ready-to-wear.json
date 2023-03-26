@@ -1,0 +1,125 @@
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "show_collection_image": true,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "section_height": "auto",
+        "text_width": "small",
+        "image": "shopify:\/\/shop_images\/Cultured-Clarity-x-The-May-Studio-40-desktop.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/Cultured-Clarity-x-The-May-Studio-40-mobile.jpg",
+        "content": "<p>Lovingly designed and crafted in Australia, these pieces are available to try on in our showroom or for immediate resizing and shipment to you.<\/p>",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 30,
+        "quick_links": ""
+      }
+    },
+    "dcdb6870-d532-401d-93b1-f4e37911c69b": {
+      "type": "custom-collection-list",
+      "disabled": true,
+      "blocks": {
+        "template--16012644417709__dcdb6870-d532-401d-93b1-f4e37911c69b-1674178706306f9a76-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "fine-jewellery",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-12-08_at_2.38.09_pm.png",
+            "subheading": "",
+            "title": "Women's",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<\/p>",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/earrings",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16012644417709__dcdb6870-d532-401d-93b1-f4e37911c69b-1674178706306f9a76-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "loose-stones",
+            "image": "shopify:\/\/shop_images\/Moissanite_52.jpg",
+            "subheading": "",
+            "title": "Men's",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<\/p>",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/fine-jewellery-rings",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "07007e57-9f1b-47db-be7a-a529248dc350": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "custom-ring-orders",
+            "image": "shopify:\/\/shop_images\/Moissanite_168.jpg",
+            "subheading": "",
+            "title": "Necklaces",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "4df10595-48ed-429e-8d59-b60a312e530d": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16012644417709__dcdb6870-d532-401d-93b1-f4e37911c69b-1674178706306f9a76-0",
+        "template--16012644417709__dcdb6870-d532-401d-93b1-f4e37911c69b-1674178706306f9a76-1",
+        "07007e57-9f1b-47db-be7a-a529248dc350",
+        "4df10595-48ed-429e-8d59-b60a312e530d"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 300,
+        "image_height_mobile": 225,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_sort_by": true,
+        "products_per_page": 24,
+        "mobile_products_per_row": "1",
+        "desktop_products_per_row": 3,
+        "show_filters": true,
+        "show_filter_group_name": false,
+        "show_color_swatch": true,
+        "open_first_filter_group": false,
+        "filter_position": "drawer",
+        "promotion_position": "top",
+        "promotion_height": "small"
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "dcdb6870-d532-401d-93b1-f4e37911c69b",
+    "main"
+  ]
+}

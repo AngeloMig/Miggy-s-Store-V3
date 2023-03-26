@@ -1,0 +1,257 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Banner_3ca65437-2a0b-49a1-87d5-c7da906f3638.png",
+        "image_mobile": "shopify:\/\/shop_images\/mobile_banner_ea9fff6f-0581-4397-8f8f-09c562a35224.png",
+        "subheading": "",
+        "title": "Our Cultured Diamonds",
+        "content": "<p>Learn more about our exquisite range of hand selected laboratory grown diamonds.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "1a19818d-ef49-4a5e-a1ce-a737c3d98096": {
+      "type": "image",
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "image": "shopify:\/\/shop_images\/cultured_clarity.png",
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2": {
+      "type": "rich-text",
+      "settings": {
+        "id": "richtext-heading",
+        "classes": "remove-vertical-spacing top bottom",
+        "subheading": "",
+        "title": "",
+        "content": "<p>Cultured <em>(adj.): <\/em><span style=\"text-decoration:underline\">Grown<\/span>     Clarity <em>(n.):<\/em> <span style=\"text-decoration:underline\">Purity<\/span><\/p><p><em>Cultured<\/em> is a way to describe lab grown diamonds and other lab grown gemstones. They are referred to as ‘cultured gemstones’.<\/p><p><em>Clarity<\/em> is a reference to the purity of the stones, but also a nod to our clarity and transparency in regards to sourceability, traceability, quality and price.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#492218",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6328075b-f8e9-482c-84b9-71c175b4d286": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LaboratoryDiamonds.png",
+            "tab_label": "",
+            "subheading": "Ethical & Traceable",
+            "title": "Laboratory Diamonds",
+            "content": "<p>Cultured Clarity™ is our exclusive range of exquisite laboratory created diamonds, hand selected by our Chief Gemstone Expert, alongside our Founder. We choose to work with only the most superb cultured diamonds, that deliver on our commitment of quality, ethicality and affordability. Our cultured diamonds are IGI and GIA certified diamonds and are D or E Colour, VS1-VVS1 Clarity and Excellent Cut.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LovinglyCrafted.png",
+            "tab_label": "",
+            "subheading": "From Our Hands To Yours",
+            "title": "Lovingly Crafted In Australia",
+            "content": "<p>A thousand year old craft, meets modern sustainable practices and design. Proudly crafted in Australia, each ring is created with intention, unrivalled craftsmanship and most importantly passion.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "Discover",
+            "button_link_alt": "shopify:\/\/pages\/our-craft"
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "#ffffff",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "68e59628-90f2-454e-9acf-bb561a7511de": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__68e59628-90f2-454e-9acf-bb561a7511de-167428110969622551-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CulturedDiamond.png",
+            "tab_label": "",
+            "subheading": "Choosing Your Gemstone",
+            "title": "Cultured Diamond or Moissanite?",
+            "content": "<p>A cultured diamond is chemically and optically the same as a mined diamond. They are one in the same - real diamonds. A lab grown diamond, however, is created above ground sustainably, with advanced technology mimicking the natural growth process of a mined diamond.<br\/><br\/>Cultured diamonds are more expensive than moissanite, ranging between $4,000.00 and $15,000.00. However, they are significantly more affordable compared to their mined counterparts.<br\/><br\/>A laboratory grown diamond is the perfect choice for somebody who desires a real diamond with ethical origins. <\/p>",
+            "button_text": "",
+            "button_link": "shopify:\/\/pages\/ring-builder",
+            "button_text_alt": "Learn More",
+            "button_link_alt": "shopify:\/\/pages\/cultured-clarity"
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__68e59628-90f2-454e-9acf-bb561a7511de-167428110969622551-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "fd9d73a6-08d9-452e-a724-abf484730662": {
+      "type": "custom-collection-list",
+      "blocks": {
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/BuildYourDream.png",
+            "subheading": "",
+            "title": "Build Your Dream Ring",
+            "content": "",
+            "link_text": "Shop",
+            "link_url": "shopify:\/\/pages\/ring-builder",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Learnthe4.png",
+            "subheading": "",
+            "title": "Learn The '4C's'",
+            "content": "",
+            "link_text": "Learn The 4C's",
+            "link_url": "shopify:\/\/pages\/the-4cs",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0",
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 600,
+        "image_height_mobile": 400,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "aa97374a-c689-4b17-b086-5828d0a8870c": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video": "shopify:\/\/files\/videos\/CC video.mp4",
+        "video_url": "",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": true,
+        "show_video_controls": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41",
+    "1a19818d-ef49-4a5e-a1ce-a737c3d98096",
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2",
+    "6328075b-f8e9-482c-84b9-71c175b4d286",
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd",
+    "68e59628-90f2-454e-9acf-bb561a7511de",
+    "fd9d73a6-08d9-452e-a724-abf484730662",
+    "aa97374a-c689-4b17-b086-5828d0a8870c"
+  ]
+}

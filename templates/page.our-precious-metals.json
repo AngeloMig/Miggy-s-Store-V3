@@ -1,0 +1,485 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Banner_a6c15259-291b-42e6-8f04-60bad503db02.png",
+        "image_mobile": "shopify:\/\/shop_images\/Banner_mobile_50bd88d5-ae57-497e-91a7-70a1e9dca5d1.png",
+        "subheading": "",
+        "title": "Our Precious Metals",
+        "content": "<p>Discover more about our precious metals used in each of our meticulously crafted pieces.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "button_outline": false,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "d6f6d682-d58d-48b6-850e-7034660025b9": {
+      "type": "text-with-icons",
+      "disabled": true,
+      "blocks": {
+        "template--16021487026349__d6f6d682-d58d-48b6-850e-7034660025b9-16742796106b020089-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond.png",
+            "custom_icon_width": 55,
+            "title": "Our Vision",
+            "content": "<p>To create positive change within the jewellery industry, removing the stigma around cultured gemstones and affording the couples the luxury of ethically creating their dream ring.<\/p>"
+          }
+        },
+        "template--16021487026349__d6f6d682-d58d-48b6-850e-7034660025b9-16742796106b020089-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond.png",
+            "custom_icon_width": 55,
+            "title": "Our Mission",
+            "content": "<p>Crafting bespoke, ethical, and affordable ceremonial jewellery for the modern couple.<\/p>"
+          }
+        },
+        "template--16021487026349__d6f6d682-d58d-48b6-850e-7034660025b9-16742796106b020089-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/icon-diamond.png",
+            "custom_icon_width": 55,
+            "title": "Our Why",
+            "content": "<p>We do what brings us joy - crafting dream rings, creating and connecting. We have a deep passion and love for what we do, and it is an honor and a privilege to walk the journey with couples.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__d6f6d682-d58d-48b6-850e-7034660025b9-16742796106b020089-0",
+        "template--16021487026349__d6f6d682-d58d-48b6-850e-7034660025b9-16742796106b020089-1",
+        "template--16021487026349__d6f6d682-d58d-48b6-850e-7034660025b9-16742796106b020089-2"
+      ],
+      "settings": {
+        "class": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6328075b-f8e9-482c-84b9-71c175b4d286": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/01_af47d647-327a-465a-b125-6561979d93f5.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "Exceptional. Ethical.",
+            "content": "<p>We are committed to working with only the most exceptional materials, sourced from ethical origins.<\/p><p>What does that actually mean, and how do we tangibilise this?<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__6328075b-f8e9-482c-84b9-71c175b4d286-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2": {
+      "type": "rich-text",
+      "settings": {
+        "id": "richtext-heading",
+        "classes": "remove-vertical-spacing top bottom",
+        "subheading": "",
+        "title": "",
+        "content": "<p>We work with Australian gold and precious metal suppliers with over 70 years of industry experience, and who also place great importance on supply chain transparency and traceability of materials. <\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f8f7f2",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/02_44f360d0-a5d9-4d8f-8648-bdde6c255c0b.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<p>Our precious metals are responsibly sourced from guaranteed conflict-free areas in Australia and can be traced back to their primary source. As well as being recycled in house from excess materials, further supporting complete traceability.<\/p><p>We also utilise 100% Australian gold and platinum which is recycled and re-refined precious metals, in line with our commitment to environmental responsibility.<\/p><p>At The Moissanite Company we primarily work with 14 karat gold, 18 karat gold and platinum, however in addition to 9 karat, sterling silver and stainless steel for our men's ceremonial rings.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__f41e5f5f-1015-445d-b09f-f59ed62c25bd-167427896505791125-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "#ffffff",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "c0188088-fd94-4477-be72-3d674c246f9e": {
+      "type": "rich-text",
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "subheading": "",
+        "title": "Precious Metal Explained",
+        "content": "<p>Yellow Gold<\/p><p>Pure Gold comprises of 24 karats, which is far too soft to utilise in bridal jewellery, so it is alloyed with other metals to provide strength and durability, as well as to achieve varying colour hues.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "68e59628-90f2-454e-9acf-bb561a7511de": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16021487026349__68e59628-90f2-454e-9acf-bb561a7511de-167428110969622551-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/03_21794a94-5465-4c9a-a405-8b8d6e97f1d4.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<p><em><strong>14 Karat Yellow Gold<\/strong><\/em><\/p><p>14 karat yellow gold is made up of 58.5% pure gold, and 41.5% alloy. 14 karat is a beautiful yellow gold option with a soft, golden hue. 14 karat looks beautiful on fair skin tones and pairs beautifully with our champagne and coloured moissanites as the setting doesn’t take away from the  vivid coloured gemstone.<\/p><p><em><strong>18 Karat Yellow Gold<\/strong><\/em><\/p><p>18 karat yellow gold is made up of 75% pure gold and 25% alloy. 18 Karat has a richer golden hue, pairing beautiful with our D coloured Eternal Brilliance moissanites and D-E coloured collection of Cultured Clarity laboratory diamonds. A divine option for your forever ring.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16021487026349__68e59628-90f2-454e-9acf-bb561a7511de-167428110969622551-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "d9b87f70-7b5d-48b6-b93d-8e6c9363d0eb": {
+      "type": "rich-text",
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "subheading": "",
+        "title": "Rose Gold",
+        "content": "<p>Rose gold, also known as red or pink gold, is made up of pure yellow gold and copper. Complimentative to fairer skin tones with pink undertones, rose gold is a beautiful option for your dream ring. Rose gold isn’t considered hypoallergenic due to the significant amounts of copper alloy. This creates the distinctive rose colour we love, however it can be irritating to sensitive skin. <\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "493237a9-c396-43a3-9e65-0f010c4ef659": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024674468013__493237a9-c396-43a3-9e65-0f010c4ef659-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/04_5b7837c4-9664-4047-9676-b1d9d966c70e.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<p><em><strong>14 Karat Rose Gold<\/strong><\/em><\/p><p>14 karat rose gold contains 58.5% pure gold and 41.5% alloy, primarily copper. It has a beautiful soft and subtle rose colour.<\/p><p><em><strong>18 Karat Rose Gold<\/strong><\/em><\/p><p>18 karat rose gold contains 75% pure gold and 25% alloy, primarily copper. 18 karat rose gold is more lustrous and has a deeper rose hue.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__493237a9-c396-43a3-9e65-0f010c4ef659-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "d1e3a1d4-6ea6-4ab6-8feb-3680d375b75c": {
+      "type": "rich-text",
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "subheading": "",
+        "title": "White Gold",
+        "content": "<p>White gold isn't naturally occurring, it is created through combining pure gold which is naturally yellow and alloys to create its white appearance. All of our white gold contains premium alloys including palladium, as well as other base alloys. All white gold is plated in rhodium to achieve its lustrous  and bright finish. White gold requires re-rhodium plating at least once per year to maintain its beautiful finish. This is a maintenance service we offer.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f173056a-b2ae-4d01-88e3-3e7bb0198664": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024674468013__f173056a-b2ae-4d01-88e3-3e7bb0198664-167468960594248e8f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/05_0d7149a2-0dff-423d-954f-fb2682d5c275.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<p><em><strong>14 Karat and 18 Karat White Gold <\/strong><\/em><\/p><p>Both 14 karat and 18 karat white gold look identical in appearance, as they are plated in rhodium. Just like their yellow gold counterparts, 14 karat contains 58.5% pure gold and 41.5% alloy and 18 karat contains 75% pure gold and 25% alloy. <\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__f173056a-b2ae-4d01-88e3-3e7bb0198664-167468960594248e8f-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top bottom",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "#000000",
+        "button_text_color_secondary": "#000000"
+      }
+    },
+    "82956230-3a14-4ad4-9f6c-1101ae316acb": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16024738562221__82956230-3a14-4ad4-9f6c-1101ae316acb-167470519756a8450a-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/06_20718e6c-fa66-49fe-8921-429ec1ea35bb.png",
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "content": "<p><em><strong>Platinum<\/strong><\/em><\/p><p>Platinum is a naturally white metal, is denser and a more durable metal compared to its white gold counterparts. A platinum ring will barely lose any of its metal thickness over time, will feel heavier and won’t ever require rhodium plating. Our platinum is very pure, comprising of 95% pure platinum and 5% alloy.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_text_alt": "",
+            "button_link_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16024738562221__82956230-3a14-4ad4-9f6c-1101ae316acb-167470519756a8450a-0"
+      ],
+      "settings": {
+        "id": "",
+        "classes": "remove-vertical-spacing top",
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "left",
+        "content_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "button_background_secondary": "rgba(0,0,0,0)",
+        "button_text_color_secondary": "rgba(0,0,0,0)"
+      }
+    },
+    "fd9d73a6-08d9-452e-a724-abf484730662": {
+      "type": "custom-collection-list",
+      "blocks": {
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Anatomy_40df639a-574c-4ddd-99bd-1095f80025ee.png",
+            "subheading": "",
+            "title": "The Anatomy Of A Ring",
+            "content": "",
+            "link_text": "Learn",
+            "link_url": "shopify:\/\/pages\/anatomy-of-a-ring",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Discover-Our-Crafting_ab456508-271d-4c14-b7d4-56111a8da191.png",
+            "subheading": "",
+            "title": "Discover Our Crafting Process",
+            "content": "",
+            "link_text": "Discover",
+            "link_url": "shopify:\/\/pages\/our-craft",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-0",
+        "template--16024674468013__fd9d73a6-08d9-452e-a724-abf484730662-1674689336bc574214-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "grid",
+        "subheading": "",
+        "title": "",
+        "image_height": 600,
+        "image_height_mobile": 400,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1b7bb63d-bf72-4656-9ee6-9af384290af7": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": false,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Banner_6e36bc8b-271f-4227-bbc5-d784e6121a92.png",
+        "subheading": "",
+        "title": "Build Your Dream Ring",
+        "content": "",
+        "button_text": "Begin Now",
+        "button_link": "shopify:\/\/pages\/ring-builder",
+        "link_style": "button",
+        "button_outline": true,
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f5c5d40a-7720-44de-9263-bd2aecbccf41",
+    "d6f6d682-d58d-48b6-850e-7034660025b9",
+    "6328075b-f8e9-482c-84b9-71c175b4d286",
+    "e6b65440-64f9-471d-a97a-e6ae7c5dfde2",
+    "f41e5f5f-1015-445d-b09f-f59ed62c25bd",
+    "c0188088-fd94-4477-be72-3d674c246f9e",
+    "68e59628-90f2-454e-9acf-bb561a7511de",
+    "d9b87f70-7b5d-48b6-b93d-8e6c9363d0eb",
+    "493237a9-c396-43a3-9e65-0f010c4ef659",
+    "d1e3a1d4-6ea6-4ab6-8feb-3680d375b75c",
+    "f173056a-b2ae-4d01-88e3-3e7bb0198664",
+    "82956230-3a14-4ad4-9f6c-1101ae316acb",
+    "fd9d73a6-08d9-452e-a724-abf484730662",
+    "1b7bb63d-bf72-4656-9ee6-9af384290af7"
+  ]
+}
