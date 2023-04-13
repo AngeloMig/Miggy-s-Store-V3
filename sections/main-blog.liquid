@@ -74,15 +74,11 @@
 
     <div class="vertical-breather vertical-breather--margin vertical-breather--extra-tight">
       <div class="container">
-        {%- paginate blog.articles by section.settings.articles_per_page -%}
           <article-list {% if settings.stagger_blog_posts_apparition %}stagger-apparition{% endif %} class="article-list article-list--stacked">
             {%- for article in blog.articles -%}
               {%- render 'article-item', article: article, heading_size: 'h4' -%}
             {%- endfor -%}
           </article-list>
-
-          {%- render 'pagination', paginate: paginate -%}
-        {% assign dm_paginate_by = paginate.page_size %}{%- endpaginate -%}
       </div>
     </div>
   {%- endif -%}
