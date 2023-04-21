@@ -58,11 +58,7 @@
                   <li class="link-bar__link-item {% if current_tags contains tag %}link-bar__link-item--selected{% endif %}">
                     {%- capture link_to_tag_replacement -%}class="link-bar__link link--animated {% if current_tags contains tag %}text--underlined{% endif %}" title={%- endcapture -%}
 
-                    {%- if current_tags contains tag -%}
-                      {{ tag | link_to_remove_tag: tag | replace: 'title=', link_to_tag_replacement }}
-                    {%- else -%}
-                      {{- tag | link_to_tag: tag | replace: 'title=', link_to_tag_replacement -}}
-                    {%- endif -%}
+             
                   </li>
                 {%- endfor -%}
               </ul>
