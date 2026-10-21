@@ -23,7 +23,7 @@
   Spurit['Discountmanager'].snippet.logStt = {productPage: false, cartPage: false, cartDrawer: false};
 
   {% if collection %}
-  {% paginate collection.products %}
+  {% paginate collection.products by nil %}
   {% for product in collection.products %}
   Spurit['Discountmanager'].snippet.products['{{product.handle}}'] = {{product.id}};
   {% endfor %}
@@ -144,3 +144,13 @@
 
 
 
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% paginate collection.products %}"
+  to: "{% paginate collection.products by nil %}"
+  position: 909..950
+{% endcomment %}
